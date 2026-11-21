@@ -1,0 +1,20 @@
+{
+  "seeds": [42, 43, 44],
+  "img_size": 224,
+  "batch_size": 16,
+  "classes_used": ["Black Rot", "Leaf Blight"],
+  "domain_variable": "EXIF Model tag (camera model)",
+  "domain_A": "SM-A037F",
+  "domain_B": "M2101K6I",
+  "duplicate_handling": "one random image per duplicate cluster per training epoch (re-drawn every epoch); class-weighted cross-entropy from scene counts",
+  "iid_control": {"n_splits": 6, "test_fold": 0, "val_fold": 1},
+  "ood_A_to_B": {"val_n_splits": 6, "val_fold": 0},
+  "ood_B_to_A": {"val_n_splits": 4, "val_fold": 0},
+  "optimizer": "AdamW, cosine schedule, flips-only augmentation, early stopping on validation macro-F1",
+  "models": {
+    "simple_cnn":         {"lr": 0.002,  "wd": 0.0001, "epochs": 80, "patience": 15, "weights": "none (from scratch)"},
+    "resnet18":           {"lr": 0.0003, "wd": 0.01,   "epochs": 40, "patience": 10, "weights": "torchvision ResNet18_Weights.IMAGENET1K_V1"},
+    "mobilenet_v3_small": {"lr": 0.0005, "wd": 0.01,   "epochs": 40, "patience": 10, "weights": "torchvision MobileNet_V3_Small_Weights.IMAGENET1K_V1"},
+    "convnext_tiny":      {"lr": 0.0001, "wd": 0.05,   "epochs": 30, "patience": 8,  "weights": "torchvision ConvNeXt_Tiny_Weights.IMAGENET1K_V1"}
+  }
+}

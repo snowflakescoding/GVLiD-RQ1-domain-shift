@@ -1,0 +1,13 @@
+protocol,model,cm_br_br,cm_br_lb,cm_lb_br,cm_lb_lb
+iid,convnext_tiny,360,8,20,138
+iid,mobilenet_v3_small,352,16,24,134
+iid,resnet18,328,40,22,136
+iid,simple_cnn,328,40,34,124
+ood_A2B,convnext_tiny,270,18,30,198
+ood_A2B,mobilenet_v3_small,270,18,32,196
+ood_A2B,resnet18,253,35,40,188
+ood_A2B,simple_cnn,264,24,100,128
+ood_B2A,convnext_tiny,1232,808,64,632
+ood_B2A,mobilenet_v3_small,1040,1000,86,610
+ood_B2A,resnet18,1240,800,72,624
+ood_B2A,simple_cnn,480,1560,124,572

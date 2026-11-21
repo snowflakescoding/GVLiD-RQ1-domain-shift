@@ -1,0 +1,5 @@
+,pred_Healthy,pred_Black Rot,pred_Esca,pred_Leaf Blight
+true_Healthy,153,4,2,1
+true_Black Rot,0,88,8,8
+true_Esca,0,0,88,39
+true_Leaf Blight,0,4,20,72

@@ -1,0 +1,1085 @@
+sample_id,filename,label,cluster,exif_model,domain,lighting,weather,vineyard
+IMG_0001,black rot001.jpg,Black Rot,0,M2101K6I,B,Overcast,Humid,Vineyard_22
+IMG_0002,black rot002.jpg,Black Rot,0,M2101K6I,B,Natural sunlight,Humid,Vineyard_28
+IMG_0003,black rot003.jpg,Black Rot,0,M2101K6I,B,Partly cloudy,Humid,Vineyard_14
+IMG_0004,black rot004.jpg,Black Rot,0,M2101K6I,B,Overcast,Humid,Vineyard_20
+IMG_0005,black rot005.jpg,Black Rot,0,M2101K6I,B,Partly cloudy,Clear,Vineyard_8
+IMG_0006,black rot006.jpg,Black Rot,0,M2101K6I,B,Partly cloudy,Humid,Vineyard_22
+IMG_0007,black rot007.jpg,Black Rot,0,M2101K6I,B,Overcast,Humid,Vineyard_5
+IMG_0008,black rot008.jpg,Black Rot,0,M2101K6I,B,Overcast,Windy,Vineyard_4
+IMG_0009,black rot009.jpg,Black Rot,1,M2101K6I,B,Partly cloudy,Humid,Vineyard_10
+IMG_0010,black rot010.jpg,Black Rot,1,M2101K6I,B,Partly cloudy,Clear,Vineyard_27
+IMG_0011,black rot011.jpg,Black Rot,1,M2101K6I,B,Overcast,Clear,Vineyard_4
+IMG_0012,black rot012.jpg,Black Rot,1,M2101K6I,B,Natural sunlight,Humid,Vineyard_2
+IMG_0013,black rot013.jpg,Black Rot,2,M2101K6I,B,Natural sunlight,Clear,Vineyard_5
+IMG_0014,black rot014.jpg,Black Rot,2,M2101K6I,B,Partly cloudy,Clear,Vineyard_19
+IMG_0015,black rot015.jpg,Black Rot,2,M2101K6I,B,Partly cloudy,Humid,Vineyard_7
+IMG_0016,black rot016.jpg,Black Rot,2,M2101K6I,B,Overcast,Clear,Vineyard_21
+IMG_0017,black rot017.jpg,Black Rot,1,M2101K6I,B,Partly cloudy,Clear,Vineyard_6
+IMG_0018,black rot018.jpg,Black Rot,1,M2101K6I,B,Partly cloudy,Humid,Vineyard_22
+IMG_0019,black rot019.jpg,Black Rot,2,M2101K6I,B,Partly cloudy,Windy,Vineyard_26
+IMG_0020,black rot021.jpg,Black Rot,1,M2101K6I,B,Overcast,Humid,Vineyard_5
+IMG_0021,black rot022.jpg,Black Rot,1,M2101K6I,B,Natural sunlight,Clear,Vineyard_19
+IMG_0022,black rot023.jpg,Black Rot,2,M2101K6I,B,Natural sunlight,Clear,Vineyard_19
+IMG_0023,black rot024.jpg,Black Rot,2,M2101K6I,B,Partly cloudy,Clear,Vineyard_9
+IMG_0024,black rot025.jpg,Black Rot,3,M2101K6I,B,Partly cloudy,Humid,Vineyard_25
+IMG_0025,black rot026.jpg,Black Rot,3,M2101K6I,B,Natural sunlight,Windy,Vineyard_7
+IMG_0026,black rot027.jpg,Black Rot,3,M2101K6I,B,Partly cloudy,Windy,Vineyard_15
+IMG_0027,black rot028.jpg,Black Rot,3,M2101K6I,B,Partly cloudy,Clear,Vineyard_10
+IMG_0028,black rot029.jpg,Black Rot,3,M2101K6I,B,Natural sunlight,Humid,Vineyard_24
+IMG_0029,black rot030.jpg,Black Rot,3,M2101K6I,B,Overcast,Humid,Vineyard_6
+IMG_0030,black rot031.jpg,Black Rot,3,M2101K6I,B,Natural sunlight,Windy,Vineyard_10
+IMG_0031,black rot032.jpg,Black Rot,3,M2101K6I,B,Partly cloudy,Clear,Vineyard_15
+IMG_0032,black rot033.jpg,Black Rot,4,M2101K6I,B,Overcast,Windy,Vineyard_16
+IMG_0033,black rot034.jpg,Black Rot,4,M2101K6I,B,Natural sunlight,Humid,Vineyard_16
+IMG_0034,black rot035.jpg,Black Rot,4,M2101K6I,B,Natural sunlight,Humid,Vineyard_16
+IMG_0035,black rot036.jpg,Black Rot,4,M2101K6I,B,Overcast,Clear,Vineyard_22
+IMG_0036,black rot037.jpg,Black Rot,4,M2101K6I,B,Partly cloudy,Windy,Vineyard_24
+IMG_0037,black rot038.jpg,Black Rot,4,M2101K6I,B,Partly cloudy,Humid,Vineyard_17
+IMG_0038,black rot039.jpg,Black Rot,4,M2101K6I,B,Overcast,Clear,Vineyard_16
+IMG_0039,black rot040.jpg,Black Rot,4,M2101K6I,B,Overcast,Clear,Vineyard_24
+IMG_0040,black rot041.jpg,Black Rot,5,M2101K6I,B,Partly cloudy,Clear,Vineyard_22
+IMG_0041,black rot042.jpg,Black Rot,5,M2101K6I,B,Partly cloudy,Windy,Vineyard_13
+IMG_0042,black rot043.jpg,Black Rot,5,M2101K6I,B,Natural sunlight,Humid,Vineyard_23
+IMG_0043,black rot044.jpg,Black Rot,5,M2101K6I,B,Natural sunlight,Humid,Vineyard_21
+IMG_0044,black rot045.jpg,Black Rot,5,M2101K6I,B,Partly cloudy,Humid,Vineyard_26
+IMG_0045,black rot046.jpg,Black Rot,5,M2101K6I,B,Partly cloudy,Windy,Vineyard_17
+IMG_0046,black rot047.jpg,Black Rot,5,M2101K6I,B,Overcast,Clear,Vineyard_2
+IMG_0047,black rot048.jpg,Black Rot,5,M2101K6I,B,Partly cloudy,Windy,Vineyard_27
+IMG_0048,black rot049.jpg,Black Rot,6,M2101K6I,B,Overcast,Windy,Vineyard_21
+IMG_0049,black rot050.jpg,Black Rot,6,M2101K6I,B,Natural sunlight,Clear,Vineyard_11
+IMG_0050,black rot051.jpg,Black Rot,6,M2101K6I,B,Partly cloudy,Humid,Vineyard_3
+IMG_0051,black rot052.jpg,Black Rot,6,M2101K6I,B,Overcast,Clear,Vineyard_10
+IMG_0052,black rot053.jpg,Black Rot,6,M2101K6I,B,Overcast,Humid,Vineyard_4
+IMG_0053,black rot054.jpg,Black Rot,6,M2101K6I,B,Natural sunlight,Windy,Vineyard_20
+IMG_0054,black rot055.jpg,Black Rot,6,M2101K6I,B,Partly cloudy,Clear,Vineyard_6
+IMG_0055,black rot056.jpg,Black Rot,6,M2101K6I,B,Overcast,Clear,Vineyard_5
+IMG_0056,black rot057.jpg,Black Rot,7,M2101K6I,B,Partly cloudy,Humid,Vineyard_18
+IMG_0057,black rot058.jpg,Black Rot,7,M2101K6I,B,Partly cloudy,Humid,Vineyard_8
+IMG_0058,black rot059.jpg,Black Rot,7,M2101K6I,B,Overcast,Windy,Vineyard_16
+IMG_0059,black rot060.jpg,Black Rot,7,M2101K6I,B,Natural sunlight,Clear,Vineyard_6
+IMG_0060,black rot061.jpg,Black Rot,7,M2101K6I,B,Overcast,Clear,Vineyard_17
+IMG_0061,black rot062.jpg,Black Rot,7,M2101K6I,B,Partly cloudy,Clear,Vineyard_23
+IMG_0062,black rot063.jpg,Black Rot,7,M2101K6I,B,Partly cloudy,Humid,Vineyard_24
+IMG_0063,black rot064.jpg,Black Rot,7,M2101K6I,B,Overcast,Windy,Vineyard_1
+IMG_0064,black rot065.jpg,Black Rot,8,M2101K6I,B,Partly cloudy,Windy,Vineyard_24
+IMG_0065,black rot066.jpg,Black Rot,8,M2101K6I,B,Partly cloudy,Clear,Vineyard_3
+IMG_0066,black rot067.jpg,Black Rot,8,M2101K6I,B,Overcast,Humid,Vineyard_8
+IMG_0067,black rot068.jpg,Black Rot,8,M2101K6I,B,Natural sunlight,Humid,Vineyard_10
+IMG_0068,black rot069.jpg,Black Rot,9,M2101K6I,B,Partly cloudy,Windy,Vineyard_25
+IMG_0069,black rot070.jpg,Black Rot,9,M2101K6I,B,Overcast,Clear,Vineyard_26
+IMG_0070,black rot071.jpg,Black Rot,9,M2101K6I,B,Partly cloudy,Humid,Vineyard_23
+IMG_0071,black rot072.jpg,Black Rot,9,M2101K6I,B,Natural sunlight,Humid,Vineyard_24
+IMG_0072,black rot073.jpg,Black Rot,10,M2101K6I,B,Partly cloudy,Clear,Vineyard_23
+IMG_0073,black rot074.jpg,Black Rot,10,M2101K6I,B,Partly cloudy,Clear,Vineyard_5
+IMG_0074,black rot075.jpg,Black Rot,10,M2101K6I,B,Overcast,Clear,Vineyard_10
+IMG_0075,black rot076.jpg,Black Rot,10,M2101K6I,B,Partly cloudy,Humid,Vineyard_17
+IMG_0076,black rot077.jpg,Black Rot,8,M2101K6I,B,Partly cloudy,Windy,Vineyard_28
+IMG_0077,black rot078.jpg,Black Rot,8,M2101K6I,B,Overcast,Clear,Vineyard_15
+IMG_0078,black rot079.jpg,Black Rot,11,M2101K6I,B,Partly cloudy,Clear,Vineyard_4
+IMG_0079,black rot080.jpg,Black Rot,11,M2101K6I,B,Overcast,Clear,Vineyard_3
+IMG_0080,black rot081.jpg,Black Rot,11,M2101K6I,B,Natural sunlight,Clear,Vineyard_17
+IMG_0081,black rot082.jpg,Black Rot,11,M2101K6I,B,Overcast,Humid,Vineyard_15
+IMG_0082,black rot083.jpg,Black Rot,9,M2101K6I,B,Natural sunlight,Clear,Vineyard_11
+IMG_0083,black rot084.jpg,Black Rot,9,M2101K6I,B,Overcast,Clear,Vineyard_27
+IMG_0084,black rot085.jpg,Black Rot,10,M2101K6I,B,Natural sunlight,Humid,Vineyard_26
+IMG_0085,black rot086.jpg,Black Rot,10,M2101K6I,B,Overcast,Humid,Vineyard_5
+IMG_0086,black rot087.jpg,Black Rot,8,M2101K6I,B,Natural sunlight,Humid,Vineyard_27
+IMG_0087,black rot088.jpg,Black Rot,11,M2101K6I,B,Natural sunlight,Clear,Vineyard_20
+IMG_0088,black rot089.jpg,Black Rot,11,M2101K6I,B,Overcast,Windy,Vineyard_13
+IMG_0089,black rot090.jpg,Black Rot,8,M2101K6I,B,Partly cloudy,Clear,Vineyard_25
+IMG_0090,black rot091.jpg,Black Rot,9,M2101K6I,B,Overcast,Windy,Vineyard_5
+IMG_0091,black rot092.jpg,Black Rot,9,M2101K6I,B,Overcast,Clear,Vineyard_17
+IMG_0092,black rot093.jpg,Black Rot,10,M2101K6I,B,Overcast,Windy,Vineyard_20
+IMG_0093,black rot094.jpg,Black Rot,10,M2101K6I,B,Partly cloudy,Clear,Vineyard_25
+IMG_0094,black rot095.jpg,Black Rot,11,M2101K6I,B,Natural sunlight,Clear,Vineyard_22
+IMG_0095,black rot096.jpg,Black Rot,11,M2101K6I,B,Natural sunlight,Windy,Vineyard_26
+IMG_0112,black rot113.jpg,Black Rot,14,SM-A037F,A,Partly cloudy,Windy,Vineyard_14
+IMG_0113,black rot114.jpg,Black Rot,14,SM-A037F,A,Overcast,Windy,Vineyard_27
+IMG_0114,black rot115.jpg,Black Rot,14,SM-A037F,A,Partly cloudy,Clear,Vineyard_12
+IMG_0115,black rot116.jpg,Black Rot,14,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_0116,black rot117.jpg,Black Rot,14,SM-A037F,A,Natural sunlight,Clear,Vineyard_17
+IMG_0117,black rot118.jpg,Black Rot,14,SM-A037F,A,Partly cloudy,Humid,Vineyard_14
+IMG_0118,black rot119.jpg,Black Rot,14,SM-A037F,A,Natural sunlight,Clear,Vineyard_25
+IMG_0119,black rot120.jpg,Black Rot,14,SM-A037F,A,Natural sunlight,Windy,Vineyard_8
+IMG_0120,black rot121.jpg,Black Rot,15,SM-A037F,A,Overcast,Humid,Vineyard_21
+IMG_0121,black rot122.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Windy,Vineyard_21
+IMG_0122,black rot123.jpg,Black Rot,15,SM-A037F,A,Overcast,Windy,Vineyard_27
+IMG_0123,black rot124.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0124,black rot125.jpg,Black Rot,15,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_0125,black rot126.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Humid,Vineyard_28
+IMG_0126,black rot127.jpg,Black Rot,15,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0127,black rot128.jpg,Black Rot,15,SM-A037F,A,Partly cloudy,Humid,Vineyard_2
+IMG_0128,black rot129.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_0129,black rot130.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Windy,Vineyard_5
+IMG_0130,black rot131.jpg,Black Rot,15,SM-A037F,A,Overcast,Humid,Vineyard_26
+IMG_0131,black rot132.jpg,Black Rot,15,SM-A037F,A,Partly cloudy,Windy,Vineyard_28
+IMG_0132,black rot133.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_0133,black rot134.jpg,Black Rot,15,SM-A037F,A,Overcast,Humid,Vineyard_2
+IMG_0134,black rot135.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Windy,Vineyard_27
+IMG_0135,black rot136.jpg,Black Rot,15,SM-A037F,A,Natural sunlight,Humid,Vineyard_28
+IMG_0136,black rot137.jpg,Black Rot,16,SM-A037F,A,Partly cloudy,Windy,Vineyard_3
+IMG_0137,black rot138.jpg,Black Rot,16,SM-A037F,A,Overcast,Clear,Vineyard_10
+IMG_0138,black rot139.jpg,Black Rot,16,SM-A037F,A,Partly cloudy,Windy,Vineyard_8
+IMG_0139,black rot140.jpg,Black Rot,16,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_0140,black rot141.jpg,Black Rot,16,SM-A037F,A,Partly cloudy,Clear,Vineyard_25
+IMG_0141,black rot142.jpg,Black Rot,16,SM-A037F,A,Partly cloudy,Humid,Vineyard_2
+IMG_0142,black rot143.jpg,Black Rot,16,SM-A037F,A,Partly cloudy,Windy,Vineyard_24
+IMG_0143,black rot144.jpg,Black Rot,16,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_0144,black rot145.jpg,Black Rot,17,SM-A037F,A,Overcast,Humid,Vineyard_22
+IMG_0145,black rot146.jpg,Black Rot,17,SM-A037F,A,Natural sunlight,Windy,Vineyard_14
+IMG_0146,black rot147.jpg,Black Rot,17,SM-A037F,A,Partly cloudy,Windy,Vineyard_19
+IMG_0147,black rot148.jpg,Black Rot,17,SM-A037F,A,Overcast,Clear,Vineyard_25
+IMG_0148,black rot149.jpg,Black Rot,17,SM-A037F,A,Overcast,Windy,Vineyard_10
+IMG_0149,black rot150.jpg,Black Rot,17,SM-A037F,A,Natural sunlight,Windy,Vineyard_28
+IMG_0150,black rot151.jpg,Black Rot,17,SM-A037F,A,Overcast,Windy,Vineyard_11
+IMG_0151,black rot152.jpg,Black Rot,17,SM-A037F,A,Overcast,Clear,Vineyard_8
+IMG_0152,black rot153.jpg,Black Rot,18,SM-A037F,A,Natural sunlight,Windy,Vineyard_6
+IMG_0153,black rot154.jpg,Black Rot,18,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_0154,black rot155.jpg,Black Rot,18,SM-A037F,A,Natural sunlight,Humid,Vineyard_22
+IMG_0155,black rot156.jpg,Black Rot,18,SM-A037F,A,Natural sunlight,Clear,Vineyard_16
+IMG_0156,black rot157.jpg,Black Rot,18,SM-A037F,A,Partly cloudy,Humid,Vineyard_28
+IMG_0157,black rot158.jpg,Black Rot,18,SM-A037F,A,Natural sunlight,Windy,Vineyard_8
+IMG_0158,black rot159.jpg,Black Rot,19,SM-A037F,A,Natural sunlight,Clear,Vineyard_18
+IMG_0159,black rot160.jpg,Black Rot,19,SM-A037F,A,Partly cloudy,Windy,Vineyard_15
+IMG_0160,black rot161.jpg,Black Rot,19,SM-A037F,A,Natural sunlight,Windy,Vineyard_1
+IMG_0161,black rot162.jpg,Black Rot,19,SM-A037F,A,Overcast,Humid,Vineyard_10
+IMG_0162,black rot163.jpg,Black Rot,20,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_0163,black rot164.jpg,Black Rot,20,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0164,black rot165.jpg,Black Rot,20,SM-A037F,A,Overcast,Humid,Vineyard_2
+IMG_0165,black rot166.jpg,Black Rot,20,SM-A037F,A,Partly cloudy,Humid,Vineyard_28
+IMG_0166,black rot167.jpg,Black Rot,18,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_0167,black rot168.jpg,Black Rot,19,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0168,black rot169.jpg,Black Rot,21,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0169,black rot170.jpg,Black Rot,21,SM-A037F,A,Overcast,Humid,Vineyard_13
+IMG_0170,black rot171.jpg,Black Rot,21,SM-A037F,A,Partly cloudy,Clear,Vineyard_22
+IMG_0171,black rot172.jpg,Black Rot,21,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_0172,black rot173.jpg,Black Rot,19,SM-A037F,A,Natural sunlight,Windy,Vineyard_26
+IMG_0173,black rot174.jpg,Black Rot,20,SM-A037F,A,Partly cloudy,Humid,Vineyard_11
+IMG_0174,black rot175.jpg,Black Rot,20,SM-A037F,A,Overcast,Clear,Vineyard_7
+IMG_0175,black rot176.jpg,Black Rot,21,SM-A037F,A,Partly cloudy,Humid,Vineyard_8
+IMG_0176,black rot177.jpg,Black Rot,19,SM-A037F,A,Partly cloudy,Clear,Vineyard_24
+IMG_0177,black rot178.jpg,Black Rot,18,SM-A037F,A,Overcast,Windy,Vineyard_8
+IMG_0178,black rot179.jpg,Black Rot,22,SM-A037F,A,Overcast,Humid,Vineyard_15
+IMG_0179,black rot180.jpg,Black Rot,22,SM-A037F,A,Overcast,Clear,Vineyard_12
+IMG_0180,black rot181.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Clear,Vineyard_26
+IMG_0181,black rot182.jpg,Black Rot,22,SM-A037F,A,Natural sunlight,Clear,Vineyard_27
+IMG_0182,black rot183.jpg,Black Rot,22,SM-A037F,A,Natural sunlight,Humid,Vineyard_14
+IMG_0183,black rot184.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Humid,Vineyard_3
+IMG_0184,black rot185.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Windy,Vineyard_24
+IMG_0185,black rot186.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Humid,Vineyard_19
+IMG_0186,black rot187.jpg,Black Rot,22,SM-A037F,A,Natural sunlight,Clear,Vineyard_9
+IMG_0187,black rot188.jpg,Black Rot,22,SM-A037F,A,Overcast,Windy,Vineyard_24
+IMG_0188,black rot189.jpg,Black Rot,22,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_0189,black rot190.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_0190,black rot191.jpg,Black Rot,21,SM-A037F,A,Partly cloudy,Humid,Vineyard_24
+IMG_0191,black rot192.jpg,Black Rot,19,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_0192,black rot193.jpg,Black Rot,20,SM-A037F,A,Overcast,Windy,Vineyard_5
+IMG_0193,black rot194.jpg,Black Rot,20,SM-A037F,A,Partly cloudy,Windy,Vineyard_11
+IMG_0194,black rot195.jpg,Black Rot,23,SM-A037F,A,Overcast,Humid,Vineyard_11
+IMG_0195,black rot196.jpg,Black Rot,23,SM-A037F,A,Natural sunlight,Windy,Vineyard_24
+IMG_0196,black rot197.jpg,Black Rot,23,SM-A037F,A,Overcast,Humid,Vineyard_22
+IMG_0197,black rot198.jpg,Black Rot,23,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_0198,black rot199.jpg,Black Rot,24,SM-A037F,A,Partly cloudy,Windy,Vineyard_1
+IMG_0199,black rot200.jpg,Black Rot,24,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0200,black rot201.jpg,Black Rot,24,SM-A037F,A,Partly cloudy,Clear,Vineyard_21
+IMG_0201,black rot202.jpg,Black Rot,24,SM-A037F,A,Partly cloudy,Windy,Vineyard_26
+IMG_0202,black rot203.jpg,Black Rot,25,SM-A037F,A,Natural sunlight,Clear,Vineyard_6
+IMG_0203,black rot204.jpg,Black Rot,25,SM-A037F,A,Partly cloudy,Windy,Vineyard_28
+IMG_0204,black rot205.jpg,Black Rot,25,SM-A037F,A,Partly cloudy,Windy,Vineyard_24
+IMG_0205,black rot206.jpg,Black Rot,25,SM-A037F,A,Natural sunlight,Windy,Vineyard_17
+IMG_0206,black rot207.jpg,Black Rot,21,SM-A037F,A,Partly cloudy,Windy,Vineyard_11
+IMG_0207,black rot208.jpg,Black Rot,23,SM-A037F,A,Overcast,Windy,Vineyard_14
+IMG_0208,black rot209.jpg,Black Rot,26,SM-A037F,A,Natural sunlight,Windy,Vineyard_8
+IMG_0209,black rot210.jpg,Black Rot,26,SM-A037F,A,Overcast,Windy,Vineyard_16
+IMG_0210,black rot211.jpg,Black Rot,26,SM-A037F,A,Natural sunlight,Clear,Vineyard_13
+IMG_0211,black rot212.jpg,Black Rot,26,SM-A037F,A,Natural sunlight,Clear,Vineyard_5
+IMG_0212,black rot213.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_0213,black rot214.jpg,Black Rot,24,SM-A037F,A,Partly cloudy,Clear,Vineyard_25
+IMG_0214,black rot215.jpg,Black Rot,22,SM-A037F,A,Natural sunlight,Clear,Vineyard_13
+IMG_0215,black rot216.jpg,Black Rot,25,SM-A037F,A,Natural sunlight,Clear,Vineyard_13
+IMG_0216,black rot217.jpg,Black Rot,27,SM-A037F,A,Overcast,Windy,Vineyard_22
+IMG_0217,black rot218.jpg,Black Rot,27,SM-A037F,A,Partly cloudy,Clear,Vineyard_17
+IMG_0218,black rot219.jpg,Black Rot,27,SM-A037F,A,Natural sunlight,Humid,Vineyard_10
+IMG_0219,black rot220.jpg,Black Rot,27,SM-A037F,A,Overcast,Windy,Vineyard_19
+IMG_0220,black rot221.jpg,Black Rot,28,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_0221,black rot222.jpg,Black Rot,28,SM-A037F,A,Partly cloudy,Windy,Vineyard_8
+IMG_0222,black rot223.jpg,Black Rot,28,SM-A037F,A,Natural sunlight,Clear,Vineyard_18
+IMG_0223,black rot224.jpg,Black Rot,28,SM-A037F,A,Natural sunlight,Windy,Vineyard_14
+IMG_0224,black rot225.jpg,Black Rot,29,SM-A037F,A,Partly cloudy,Clear,Vineyard_22
+IMG_0225,black rot226.jpg,Black Rot,29,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_0226,black rot227.jpg,Black Rot,29,SM-A037F,A,Partly cloudy,Windy,Vineyard_2
+IMG_0227,black rot228.jpg,Black Rot,29,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_0228,black rot229.jpg,Black Rot,22,SM-A037F,A,Overcast,Windy,Vineyard_7
+IMG_0229,black rot230.jpg,Black Rot,26,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0230,black rot231.jpg,Black Rot,23,SM-A037F,A,Natural sunlight,Windy,Vineyard_6
+IMG_0231,black rot232.jpg,Black Rot,27,SM-A037F,A,Partly cloudy,Humid,Vineyard_24
+IMG_0232,black rot233.jpg,Black Rot,30,SM-A037F,A,Natural sunlight,Humid,Vineyard_15
+IMG_0233,black rot234.jpg,Black Rot,30,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0234,black rot235.jpg,Black Rot,30,SM-A037F,A,Natural sunlight,Windy,Vineyard_17
+IMG_0235,black rot236.jpg,Black Rot,30,SM-A037F,A,Overcast,Clear,Vineyard_25
+IMG_0236,black rot237.jpg,Black Rot,31,SM-A037F,A,Natural sunlight,Windy,Vineyard_4
+IMG_0237,black rot238.jpg,Black Rot,31,SM-A037F,A,Natural sunlight,Humid,Vineyard_3
+IMG_0238,black rot239.jpg,Black Rot,31,SM-A037F,A,Natural sunlight,Windy,Vineyard_20
+IMG_0239,black rot240.jpg,Black Rot,31,SM-A037F,A,Natural sunlight,Humid,Vineyard_28
+IMG_0240,black rot241.jpg,Black Rot,24,SM-A037F,A,Partly cloudy,Humid,Vineyard_26
+IMG_0241,black rot242.jpg,Black Rot,28,SM-A037F,A,Overcast,Windy,Vineyard_23
+IMG_0242,black rot243.jpg,Black Rot,32,SM-A037F,A,Overcast,Windy,Vineyard_22
+IMG_0243,black rot244.jpg,Black Rot,32,SM-A037F,A,Overcast,Clear,Vineyard_6
+IMG_0244,black rot245.jpg,Black Rot,32,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_0245,black rot246.jpg,Black Rot,32,SM-A037F,A,Overcast,Windy,Vineyard_9
+IMG_0246,black rot247.jpg,Black Rot,25,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0247,black rot248.jpg,Black Rot,29,SM-A037F,A,Overcast,Windy,Vineyard_25
+IMG_0248,black rot249.jpg,Black Rot,23,SM-A037F,A,Overcast,Windy,Vineyard_13
+IMG_0249,black rot250.jpg,Black Rot,30,SM-A037F,A,Natural sunlight,Clear,Vineyard_19
+IMG_0250,black rot251.jpg,Black Rot,26,SM-A037F,A,Partly cloudy,Humid,Vineyard_23
+IMG_0251,black rot252.jpg,Black Rot,31,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_0252,black rot253.jpg,Black Rot,24,SM-A037F,A,Overcast,Humid,Vineyard_13
+IMG_0253,black rot254.jpg,Black Rot,32,SM-A037F,A,Partly cloudy,Humid,Vineyard_3
+IMG_0254,black rot255.jpg,Black Rot,25,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_0255,black rot256.jpg,Black Rot,21,SM-A037F,A,Natural sunlight,Clear,Vineyard_25
+IMG_0256,black rot257.jpg,Black Rot,27,SM-A037F,A,Natural sunlight,Windy,Vineyard_21
+IMG_0257,black rot258.jpg,Black Rot,22,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_0258,black rot259.jpg,Black Rot,28,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_0259,black rot260.jpg,Black Rot,23,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_0260,black rot261.jpg,Black Rot,29,SM-A037F,A,Natural sunlight,Clear,Vineyard_18
+IMG_0261,black rot262.jpg,Black Rot,24,SM-A037F,A,Natural sunlight,Clear,Vineyard_17
+IMG_0262,black rot263.jpg,Black Rot,26,SM-A037F,A,Partly cloudy,Humid,Vineyard_4
+IMG_0263,black rot264.jpg,Black Rot,25,SM-A037F,A,Natural sunlight,Humid,Vineyard_10
+IMG_0264,black rot265.jpg,Black Rot,27,SM-A037F,A,Partly cloudy,Humid,Vineyard_8
+IMG_0265,black rot266.jpg,Black Rot,26,SM-A037F,A,Overcast,Windy,Vineyard_19
+IMG_0266,black rot267.jpg,Black Rot,30,SM-A037F,A,Overcast,Humid,Vineyard_23
+IMG_0267,black rot268.jpg,Black Rot,27,SM-A037F,A,Natural sunlight,Humid,Vineyard_7
+IMG_0268,black rot269.jpg,Black Rot,33,SM-A037F,A,Natural sunlight,Clear,Vineyard_19
+IMG_0269,black rot270.jpg,Black Rot,33,SM-A037F,A,Natural sunlight,Clear,Vineyard_2
+IMG_0270,black rot271.jpg,Black Rot,33,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_0271,black rot272.jpg,Black Rot,33,SM-A037F,A,Overcast,Humid,Vineyard_24
+IMG_0272,black rot273.jpg,Black Rot,31,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_0273,black rot274.jpg,Black Rot,33,SM-A037F,A,Partly cloudy,Windy,Vineyard_15
+IMG_0274,black rot275.jpg,Black Rot,28,SM-A037F,A,Overcast,Windy,Vineyard_21
+IMG_0275,black rot276.jpg,Black Rot,28,SM-A037F,A,Natural sunlight,Humid,Vineyard_24
+IMG_0276,black rot277.jpg,Black Rot,32,SM-A037F,A,Natural sunlight,Clear,Vineyard_23
+IMG_0277,black rot278.jpg,Black Rot,29,SM-A037F,A,Overcast,Humid,Vineyard_4
+IMG_0278,black rot279.jpg,Black Rot,29,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0279,black rot280.jpg,Black Rot,30,SM-A037F,A,Overcast,Windy,Vineyard_5
+IMG_0280,black rot281.jpg,Black Rot,30,SM-A037F,A,Overcast,Clear,Vineyard_20
+IMG_0281,black rot282.jpg,Black Rot,31,SM-A037F,A,Overcast,Humid,Vineyard_21
+IMG_0282,black rot283.jpg,Black Rot,31,SM-A037F,A,Overcast,Windy,Vineyard_16
+IMG_0283,black rot284.jpg,Black Rot,32,SM-A037F,A,Overcast,Humid,Vineyard_27
+IMG_0284,black rot285.jpg,Black Rot,34,SM-A037F,A,Partly cloudy,Humid,Vineyard_26
+IMG_0285,black rot286.jpg,Black Rot,34,SM-A037F,A,Natural sunlight,Windy,Vineyard_16
+IMG_0286,black rot287.jpg,Black Rot,34,SM-A037F,A,Natural sunlight,Windy,Vineyard_18
+IMG_0287,black rot288.jpg,Black Rot,34,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_0288,black rot289.jpg,Black Rot,32,SM-A037F,A,Overcast,Humid,Vineyard_5
+IMG_0289,black rot290.jpg,Black Rot,34,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_0290,black rot291.jpg,Black Rot,35,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_0291,black rot292.jpg,Black Rot,35,SM-A037F,A,Natural sunlight,Clear,Vineyard_27
+IMG_0292,black rot293.jpg,Black Rot,35,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_0293,black rot294.jpg,Black Rot,35,SM-A037F,A,Overcast,Humid,Vineyard_15
+IMG_0294,black rot295.jpg,Black Rot,36,SM-A037F,A,Overcast,Windy,Vineyard_20
+IMG_0295,black rot296.jpg,Black Rot,36,SM-A037F,A,Partly cloudy,Humid,Vineyard_9
+IMG_0296,black rot297.jpg,Black Rot,36,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_0297,black rot298.jpg,Black Rot,36,SM-A037F,A,Overcast,Humid,Vineyard_4
+IMG_0298,black rot299.jpg,Black Rot,33,SM-A037F,A,Natural sunlight,Windy,Vineyard_17
+IMG_0299,black rot300.jpg,Black Rot,35,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_0300,black rot301.jpg,Black Rot,33,SM-A037F,A,Natural sunlight,Clear,Vineyard_9
+IMG_0301,black rot302.jpg,Black Rot,36,SM-A037F,A,Partly cloudy,Humid,Vineyard_11
+IMG_0302,black rot303.jpg,Black Rot,34,SM-A037F,A,Overcast,Clear,Vineyard_28
+IMG_0303,black rot304.jpg,Black Rot,33,SM-A037F,A,Overcast,Humid,Vineyard_25
+IMG_0304,black rot305.jpg,Black Rot,34,SM-A037F,A,Overcast,Humid,Vineyard_26
+IMG_0305,black rot306.jpg,Black Rot,34,SM-A037F,A,Partly cloudy,Clear,Vineyard_28
+IMG_0306,black rot307.jpg,Black Rot,37,SM-A037F,A,Partly cloudy,Windy,Vineyard_2
+IMG_0307,black rot308.jpg,Black Rot,37,SM-A037F,A,Overcast,Clear,Vineyard_9
+IMG_0308,black rot309.jpg,Black Rot,37,SM-A037F,A,Overcast,Windy,Vineyard_21
+IMG_0309,black rot310.jpg,Black Rot,37,SM-A037F,A,Partly cloudy,Humid,Vineyard_2
+IMG_0310,black rot311.jpg,Black Rot,38,SM-A037F,A,Natural sunlight,Humid,Vineyard_15
+IMG_0311,black rot312.jpg,Black Rot,38,SM-A037F,A,Overcast,Clear,Vineyard_28
+IMG_0312,black rot313.jpg,Black Rot,38,SM-A037F,A,Partly cloudy,Clear,Vineyard_17
+IMG_0313,black rot314.jpg,Black Rot,38,SM-A037F,A,Partly cloudy,Humid,Vineyard_24
+IMG_0314,black rot315.jpg,Black Rot,35,SM-A037F,A,Natural sunlight,Clear,Vineyard_1
+IMG_0315,black rot316.jpg,Black Rot,37,SM-A037F,A,Partly cloudy,Clear,Vineyard_21
+IMG_0316,black rot317.jpg,Black Rot,36,SM-A037F,A,Natural sunlight,Windy,Vineyard_4
+IMG_0317,black rot318.jpg,Black Rot,38,SM-A037F,A,Overcast,Clear,Vineyard_21
+IMG_0318,black rot319.jpg,Black Rot,35,SM-A037F,A,Partly cloudy,Windy,Vineyard_5
+IMG_0319,black rot320.jpg,Black Rot,35,SM-A037F,A,Partly cloudy,Windy,Vineyard_4
+IMG_0320,black rot321.jpg,Black Rot,39,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0321,black rot322.jpg,Black Rot,39,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_0322,black rot323.jpg,Black Rot,39,SM-A037F,A,Partly cloudy,Humid,Vineyard_15
+IMG_0323,black rot324.jpg,Black Rot,39,SM-A037F,A,Overcast,Windy,Vineyard_11
+IMG_0324,black rot325.jpg,Black Rot,40,SM-A037F,A,Overcast,Clear,Vineyard_11
+IMG_0325,black rot326.jpg,Black Rot,40,SM-A037F,A,Partly cloudy,Windy,Vineyard_10
+IMG_0326,black rot327.jpg,Black Rot,40,SM-A037F,A,Natural sunlight,Humid,Vineyard_14
+IMG_0327,black rot328.jpg,Black Rot,40,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_0328,black rot329.jpg,Black Rot,36,SM-A037F,A,Overcast,Clear,Vineyard_28
+IMG_0329,black rot330.jpg,Black Rot,39,SM-A037F,A,Overcast,Clear,Vineyard_10
+IMG_0330,black rot331.jpg,Black Rot,37,SM-A037F,A,Partly cloudy,Clear,Vineyard_28
+IMG_0331,black rot332.jpg,Black Rot,40,SM-A037F,A,Partly cloudy,Humid,Vineyard_10
+IMG_0332,black rot333.jpg,Black Rot,41,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_0333,black rot334.jpg,Black Rot,41,SM-A037F,A,Overcast,Humid,Vineyard_26
+IMG_0334,black rot335.jpg,Black Rot,41,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_0335,black rot336.jpg,Black Rot,41,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_0336,black rot337.jpg,Black Rot,42,SM-A037F,A,Overcast,Humid,Vineyard_2
+IMG_0337,black rot338.jpg,Black Rot,42,SM-A037F,A,Overcast,Clear,Vineyard_12
+IMG_0338,black rot339.jpg,Black Rot,42,SM-A037F,A,Partly cloudy,Windy,Vineyard_3
+IMG_0339,black rot340.jpg,Black Rot,42,SM-A037F,A,Natural sunlight,Humid,Vineyard_10
+IMG_0340,black rot341.jpg,Black Rot,43,SM-A037F,A,Partly cloudy,Clear,Vineyard_24
+IMG_0341,black rot342.jpg,Black Rot,43,SM-A037F,A,Overcast,Windy,Vineyard_20
+IMG_0342,black rot343.jpg,Black Rot,43,SM-A037F,A,Natural sunlight,Humid,Vineyard_12
+IMG_0343,black rot344.jpg,Black Rot,43,SM-A037F,A,Natural sunlight,Windy,Vineyard_6
+IMG_0344,black rot345.jpg,Black Rot,44,SM-A037F,A,Partly cloudy,Humid,Vineyard_3
+IMG_0345,black rot346.jpg,Black Rot,44,SM-A037F,A,Overcast,Humid,Vineyard_8
+IMG_0346,black rot347.jpg,Black Rot,44,SM-A037F,A,Partly cloudy,Clear,Vineyard_26
+IMG_0347,black rot348.jpg,Black Rot,44,SM-A037F,A,Overcast,Windy,Vineyard_22
+IMG_0348,black rot349.jpg,Black Rot,45,SM-A037F,A,Overcast,Humid,Vineyard_16
+IMG_0349,black rot350.jpg,Black Rot,45,SM-A037F,A,Natural sunlight,Windy,Vineyard_13
+IMG_0350,black rot351.jpg,Black Rot,45,SM-A037F,A,Natural sunlight,Windy,Vineyard_25
+IMG_0351,black rot352.jpg,Black Rot,45,SM-A037F,A,Overcast,Humid,Vineyard_12
+IMG_0352,black rot353.jpg,Black Rot,46,SM-A037F,A,Overcast,Humid,Vineyard_25
+IMG_0353,black rot354.jpg,Black Rot,46,SM-A037F,A,Partly cloudy,Humid,Vineyard_22
+IMG_0354,black rot355.jpg,Black Rot,46,SM-A037F,A,Overcast,Clear,Vineyard_2
+IMG_0355,black rot356.jpg,Black Rot,46,SM-A037F,A,Partly cloudy,Humid,Vineyard_26
+IMG_0356,black rot357.jpg,Black Rot,38,SM-A037F,A,Overcast,Windy,Vineyard_10
+IMG_0357,black rot358.jpg,Black Rot,41,SM-A037F,A,Natural sunlight,Clear,Vineyard_12
+IMG_0358,black rot359.jpg,Black Rot,47,SM-A037F,A,Overcast,Windy,Vineyard_9
+IMG_0359,black rot360.jpg,Black Rot,47,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_0360,black rot361.jpg,Black Rot,47,SM-A037F,A,Overcast,Clear,Vineyard_5
+IMG_0361,black rot362.jpg,Black Rot,47,SM-A037F,A,Natural sunlight,Clear,Vineyard_20
+IMG_0362,black rot363.jpg,Black Rot,37,SM-A037F,A,Overcast,Humid,Vineyard_28
+IMG_0363,black rot364.jpg,Black Rot,42,SM-A037F,A,Partly cloudy,Windy,Vineyard_24
+IMG_0364,black rot365.jpg,Black Rot,38,SM-A037F,A,Partly cloudy,Clear,Vineyard_18
+IMG_0365,black rot366.jpg,Black Rot,43,SM-A037F,A,Partly cloudy,Humid,Vineyard_5
+IMG_0366,black rot367.jpg,Black Rot,39,SM-A037F,A,Partly cloudy,Humid,Vineyard_14
+IMG_0367,black rot368.jpg,Black Rot,44,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_0368,black rot369.jpg,Black Rot,48,SM-A037F,A,Partly cloudy,Humid,Vineyard_23
+IMG_0369,black rot370.jpg,Black Rot,48,SM-A037F,A,Partly cloudy,Clear,Vineyard_23
+IMG_0370,black rot371.jpg,Black Rot,48,SM-A037F,A,Overcast,Humid,Vineyard_20
+IMG_0371,black rot372.jpg,Black Rot,48,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_0372,black rot373.jpg,Black Rot,49,SM-A037F,A,Partly cloudy,Humid,Vineyard_22
+IMG_0373,black rot374.jpg,Black Rot,49,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0374,black rot375.jpg,Black Rot,49,SM-A037F,A,Overcast,Clear,Vineyard_20
+IMG_0375,black rot376.jpg,Black Rot,49,SM-A037F,A,Overcast,Clear,Vineyard_13
+IMG_0376,black rot377.jpg,Black Rot,50,SM-A037F,A,Overcast,Humid,Vineyard_6
+IMG_0377,black rot378.jpg,Black Rot,50,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_0378,black rot379.jpg,Black Rot,50,SM-A037F,A,Partly cloudy,Humid,Vineyard_14
+IMG_0379,black rot380.jpg,Black Rot,50,SM-A037F,A,Natural sunlight,Windy,Vineyard_3
+IMG_0380,black rot381.jpg,Black Rot,51,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0381,black rot382.jpg,Black Rot,51,SM-A037F,A,Overcast,Windy,Vineyard_8
+IMG_0382,black rot383.jpg,Black Rot,51,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_0383,black rot384.jpg,Black Rot,51,SM-A037F,A,Overcast,Windy,Vineyard_4
+IMG_0384,black rot385.jpg,Black Rot,52,SM-A037F,A,Overcast,Windy,Vineyard_23
+IMG_0385,black rot386.jpg,Black Rot,52,SM-A037F,A,Natural sunlight,Humid,Vineyard_11
+IMG_0386,black rot387.jpg,Black Rot,52,SM-A037F,A,Natural sunlight,Humid,Vineyard_5
+IMG_0387,black rot388.jpg,Black Rot,52,SM-A037F,A,Natural sunlight,Humid,Vineyard_20
+IMG_0388,black rot389.jpg,Black Rot,53,SM-A037F,A,Overcast,Clear,Vineyard_26
+IMG_0389,black rot390.jpg,Black Rot,53,SM-A037F,A,Overcast,Humid,Vineyard_7
+IMG_0390,black rot391.jpg,Black Rot,53,SM-A037F,A,Partly cloudy,Windy,Vineyard_13
+IMG_0391,black rot392.jpg,Black Rot,53,SM-A037F,A,Overcast,Clear,Vineyard_1
+IMG_0392,black rot393.jpg,Black Rot,54,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_0393,black rot394.jpg,Black Rot,54,SM-A037F,A,Natural sunlight,Clear,Vineyard_6
+IMG_0394,black rot395.jpg,Black Rot,54,SM-A037F,A,Natural sunlight,Windy,Vineyard_3
+IMG_0395,black rot396.jpg,Black Rot,54,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_0396,black rot397.jpg,Black Rot,55,SM-A037F,A,Overcast,Humid,Vineyard_15
+IMG_0397,black rot398.jpg,Black Rot,55,SM-A037F,A,Natural sunlight,Windy,Vineyard_24
+IMG_0398,black rot399.jpg,Black Rot,55,SM-A037F,A,Natural sunlight,Clear,Vineyard_10
+IMG_0399,black rot400.jpg,Black Rot,55,SM-A037F,A,Natural sunlight,Windy,Vineyard_14
+IMG_0400,black rot401.jpg,Black Rot,40,SM-A037F,A,Partly cloudy,Humid,Vineyard_7
+IMG_0401,black rot402.jpg,Black Rot,45,SM-A037F,A,Natural sunlight,Clear,Vineyard_20
+IMG_0402,black rot403.jpg,Black Rot,56,SM-A037F,A,Overcast,Clear,Vineyard_27
+IMG_0403,black rot404.jpg,Black Rot,56,SM-A037F,A,Partly cloudy,Humid,Vineyard_27
+IMG_0404,black rot405.jpg,Black Rot,56,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_0405,black rot406.jpg,Black Rot,56,SM-A037F,A,Overcast,Humid,Vineyard_12
+IMG_0406,black rot407.jpg,Black Rot,57,SM-A037F,A,Natural sunlight,Humid,Vineyard_8
+IMG_0407,black rot408.jpg,Black Rot,57,SM-A037F,A,Natural sunlight,Windy,Vineyard_19
+IMG_0408,black rot409.jpg,Black Rot,57,SM-A037F,A,Partly cloudy,Clear,Vineyard_25
+IMG_0409,black rot410.jpg,Black Rot,57,SM-A037F,A,Partly cloudy,Windy,Vineyard_19
+IMG_0410,black rot411.jpg,Black Rot,58,SM-A037F,A,Overcast,Windy,Vineyard_15
+IMG_0411,black rot412.jpg,Black Rot,58,SM-A037F,A,Overcast,Windy,Vineyard_27
+IMG_0412,black rot413.jpg,Black Rot,58,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_0413,black rot414.jpg,Black Rot,58,SM-A037F,A,Partly cloudy,Humid,Vineyard_22
+IMG_0414,black rot415.jpg,Black Rot,59,SM-A037F,A,Natural sunlight,Clear,Vineyard_17
+IMG_0415,black rot416.jpg,Black Rot,59,SM-A037F,A,Overcast,Windy,Vineyard_4
+IMG_0416,black rot417.jpg,Black Rot,59,SM-A037F,A,Overcast,Clear,Vineyard_12
+IMG_0417,black rot418.jpg,Black Rot,59,SM-A037F,A,Natural sunlight,Clear,Vineyard_18
+IMG_0418,black rot419.jpg,Black Rot,60,SM-A037F,A,Overcast,Windy,Vineyard_9
+IMG_0419,black rot420.jpg,Black Rot,60,SM-A037F,A,Natural sunlight,Humid,Vineyard_23
+IMG_0420,black rot421.jpg,Black Rot,60,SM-A037F,A,Natural sunlight,Clear,Vineyard_5
+IMG_0421,black rot422.jpg,Black Rot,60,SM-A037F,A,Overcast,Humid,Vineyard_22
+IMG_0422,black rot423.jpg,Black Rot,61,SM-A037F,A,Overcast,Windy,Vineyard_11
+IMG_0423,black rot424.jpg,Black Rot,61,SM-A037F,A,Natural sunlight,Humid,Vineyard_28
+IMG_0424,black rot425.jpg,Black Rot,61,SM-A037F,A,Partly cloudy,Clear,Vineyard_6
+IMG_0425,black rot426.jpg,Black Rot,61,SM-A037F,A,Natural sunlight,Windy,Vineyard_20
+IMG_0426,black rot427.jpg,Black Rot,62,SM-A037F,A,Overcast,Humid,Vineyard_24
+IMG_0427,black rot428.jpg,Black Rot,62,SM-A037F,A,Partly cloudy,Humid,Vineyard_13
+IMG_0428,black rot429.jpg,Black Rot,62,SM-A037F,A,Natural sunlight,Windy,Vineyard_24
+IMG_0429,black rot430.jpg,Black Rot,62,SM-A037F,A,Natural sunlight,Clear,Vineyard_28
+IMG_0430,black rot431.jpg,Black Rot,63,SM-A037F,A,Overcast,Windy,Vineyard_4
+IMG_0431,black rot432.jpg,Black Rot,63,SM-A037F,A,Partly cloudy,Windy,Vineyard_17
+IMG_0432,black rot433.jpg,Black Rot,63,SM-A037F,A,Overcast,Humid,Vineyard_5
+IMG_0433,black rot434.jpg,Black Rot,63,SM-A037F,A,Natural sunlight,Clear,Vineyard_24
+IMG_0434,black rot435.jpg,Black Rot,39,SM-A037F,A,Natural sunlight,Windy,Vineyard_3
+IMG_0435,black rot436.jpg,Black Rot,46,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_0436,black rot437.jpg,Black Rot,40,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_0437,black rot438.jpg,Black Rot,47,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_0438,black rot439.jpg,Black Rot,41,SM-A037F,A,Partly cloudy,Humid,Vineyard_20
+IMG_0439,black rot440.jpg,Black Rot,48,SM-A037F,A,Natural sunlight,Humid,Vineyard_27
+IMG_0440,black rot441.jpg,Black Rot,42,SM-A037F,A,Partly cloudy,Humid,Vineyard_28
+IMG_0441,black rot442.jpg,Black Rot,49,SM-A037F,A,Partly cloudy,Windy,Vineyard_10
+IMG_0442,black rot443.jpg,Black Rot,64,SM-A037F,A,Partly cloudy,Windy,Vineyard_26
+IMG_0443,black rot444.jpg,Black Rot,64,SM-A037F,A,Partly cloudy,Windy,Vineyard_3
+IMG_0444,black rot445.jpg,Black Rot,64,SM-A037F,A,Overcast,Humid,Vineyard_18
+IMG_0445,black rot446.jpg,Black Rot,64,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_0446,black rot447.jpg,Black Rot,64,SM-A037F,A,Overcast,Clear,Vineyard_24
+IMG_0447,black rot448.jpg,Black Rot,64,SM-A037F,A,Partly cloudy,Humid,Vineyard_10
+IMG_0448,black rot449.jpg,Black Rot,64,SM-A037F,A,Natural sunlight,Windy,Vineyard_23
+IMG_0449,black rot450.jpg,Black Rot,50,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0450,black rot451.jpg,Black Rot,50,SM-A037F,A,Partly cloudy,Windy,Vineyard_13
+IMG_0451,black rot452.jpg,Black Rot,51,SM-A037F,A,Overcast,Clear,Vineyard_28
+IMG_0452,black rot453.jpg,Black Rot,51,SM-A037F,A,Natural sunlight,Humid,Vineyard_9
+IMG_0453,black rot454.jpg,Black Rot,52,SM-A037F,A,Natural sunlight,Humid,Vineyard_18
+IMG_0454,black rot455.jpg,Black Rot,52,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_0455,black rot456.jpg,Black Rot,53,SM-A037F,A,Overcast,Humid,Vineyard_11
+IMG_0456,black rot457.jpg,Black Rot,65,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0457,black rot458.jpg,Black Rot,65,SM-A037F,A,Natural sunlight,Clear,Vineyard_2
+IMG_0458,black rot459.jpg,Black Rot,65,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_0459,black rot460.jpg,Black Rot,65,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0460,black rot461.jpg,Black Rot,66,SM-A037F,A,Overcast,Windy,Vineyard_13
+IMG_0461,black rot462.jpg,Black Rot,66,SM-A037F,A,Partly cloudy,Clear,Vineyard_4
+IMG_0462,black rot463.jpg,Black Rot,66,SM-A037F,A,Natural sunlight,Clear,Vineyard_22
+IMG_0463,black rot464.jpg,Black Rot,66,SM-A037F,A,Overcast,Clear,Vineyard_19
+IMG_0464,black rot465.jpg,Black Rot,67,SM-A037F,A,Natural sunlight,Windy,Vineyard_3
+IMG_0465,black rot466.jpg,Black Rot,67,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_0466,black rot467.jpg,Black Rot,67,SM-A037F,A,Partly cloudy,Windy,Vineyard_28
+IMG_0467,black rot468.jpg,Black Rot,67,SM-A037F,A,Partly cloudy,Clear,Vineyard_20
+IMG_0468,black rot469.jpg,Black Rot,53,SM-A037F,A,Overcast,Clear,Vineyard_24
+IMG_0469,black rot470.jpg,Black Rot,65,SM-A037F,A,Natural sunlight,Clear,Vineyard_17
+IMG_0470,black rot471.jpg,Black Rot,68,SM-A037F,A,Natural sunlight,Windy,Vineyard_9
+IMG_0471,black rot472.jpg,Black Rot,68,SM-A037F,A,Overcast,Windy,Vineyard_17
+IMG_0472,black rot473.jpg,Black Rot,68,SM-A037F,A,Natural sunlight,Windy,Vineyard_21
+IMG_0473,black rot474.jpg,Black Rot,68,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_0474,black rot475.jpg,Black Rot,65,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_0475,black rot476.jpg,Black Rot,66,SM-A037F,A,Natural sunlight,Clear,Vineyard_19
+IMG_0476,black rot477.jpg,Black Rot,69,SM-A037F,A,Partly cloudy,Humid,Vineyard_2
+IMG_0477,black rot478.jpg,Black Rot,69,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_0478,black rot479.jpg,Black Rot,69,SM-A037F,A,Overcast,Humid,Vineyard_2
+IMG_0479,black rot480.jpg,Black Rot,69,SM-A037F,A,Overcast,Humid,Vineyard_14
+IMG_0480,black rot481.jpg,Black Rot,66,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_0481,black rot482.jpg,Black Rot,67,SM-A037F,A,Partly cloudy,Clear,Vineyard_20
+IMG_0482,black rot483.jpg,Black Rot,70,SM-A037F,A,Natural sunlight,Windy,Vineyard_6
+IMG_0483,black rot484.jpg,Black Rot,70,SM-A037F,A,Overcast,Clear,Vineyard_21
+IMG_0484,black rot485.jpg,Black Rot,70,SM-A037F,A,Overcast,Humid,Vineyard_23
+IMG_0485,black rot486.jpg,Black Rot,70,SM-A037F,A,Overcast,Clear,Vineyard_11
+IMG_0486,black rot487.jpg,Black Rot,71,SM-A037F,A,Overcast,Humid,Vineyard_17
+IMG_0487,black rot488.jpg,Black Rot,71,SM-A037F,A,Partly cloudy,Humid,Vineyard_26
+IMG_0488,black rot489.jpg,Black Rot,71,SM-A037F,A,Partly cloudy,Windy,Vineyard_27
+IMG_0489,black rot490.jpg,Black Rot,71,SM-A037F,A,Partly cloudy,Windy,Vineyard_13
+IMG_0490,black rot491.jpg,Black Rot,72,SM-A037F,A,Overcast,Windy,Vineyard_24
+IMG_0491,black rot492.jpg,Black Rot,72,SM-A037F,A,Partly cloudy,Clear,Vineyard_25
+IMG_0492,black rot493.jpg,Black Rot,72,SM-A037F,A,Natural sunlight,Humid,Vineyard_22
+IMG_0493,black rot494.jpg,Black Rot,72,SM-A037F,A,Partly cloudy,Clear,Vineyard_23
+IMG_0494,black rot495.jpg,Black Rot,67,SM-A037F,A,Overcast,Windy,Vineyard_2
+IMG_0495,black rot496.jpg,Black Rot,68,SM-A037F,A,Overcast,Humid,Vineyard_6
+IMG_0496,black rot497.jpg,Black Rot,65,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0497,black rot498.jpg,Black Rot,69,SM-A037F,A,Overcast,Windy,Vineyard_12
+IMG_0498,black rot499.jpg,Black Rot,68,SM-A037F,A,Natural sunlight,Clear,Vineyard_10
+IMG_0499,black rot500.jpg,Black Rot,70,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_0500,black rot501.jpg,Black Rot,73,SM-A037F,A,Partly cloudy,Humid,Vineyard_17
+IMG_0501,black rot502.jpg,Black Rot,73,SM-A037F,A,Partly cloudy,Humid,Vineyard_20
+IMG_0502,black rot503.jpg,Black Rot,73,SM-A037F,A,Overcast,Windy,Vineyard_27
+IMG_0503,black rot504.jpg,Black Rot,73,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0504,black rot505.jpg,Black Rot,66,SM-A037F,A,Partly cloudy,Windy,Vineyard_27
+IMG_0505,black rot506.jpg,Black Rot,71,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_0506,black rot507.jpg,Black Rot,69,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0507,black rot508.jpg,Black Rot,72,SM-A037F,A,Overcast,Humid,Vineyard_1
+IMG_0508,black rot509.jpg,Black Rot,67,SM-A037F,A,Overcast,Humid,Vineyard_20
+IMG_0509,black rot510.jpg,Black Rot,73,SM-A037F,A,Natural sunlight,Humid,Vineyard_11
+IMG_0510,black rot511.jpg,Black Rot,70,SM-A037F,A,Natural sunlight,Windy,Vineyard_8
+IMG_0511,black rot512.jpg,Black Rot,54,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0512,black rot513.jpg,Black Rot,71,SM-A037F,A,Overcast,Clear,Vineyard_22
+IMG_0513,black rot514.jpg,Black Rot,55,SM-A037F,A,Overcast,Clear,Vineyard_8
+IMG_0514,black rot515.jpg,Black Rot,72,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0515,black rot516.jpg,Black Rot,56,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_0516,black rot517.jpg,Black Rot,68,SM-A037F,A,Partly cloudy,Humid,Vineyard_13
+IMG_0517,black rot518.jpg,Black Rot,57,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_0518,black rot519.jpg,Black Rot,69,SM-A037F,A,Overcast,Windy,Vineyard_15
+IMG_0519,black rot520.jpg,Black Rot,58,SM-A037F,A,Overcast,Clear,Vineyard_19
+IMG_0520,black rot521.jpg,Black Rot,74,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_0521,black rot522.jpg,Black Rot,74,SM-A037F,A,Partly cloudy,Clear,Vineyard_22
+IMG_0522,black rot523.jpg,Black Rot,74,SM-A037F,A,Partly cloudy,Clear,Vineyard_21
+IMG_0523,black rot524.jpg,Black Rot,74,SM-A037F,A,Partly cloudy,Clear,Vineyard_8
+IMG_0524,black rot525.jpg,Black Rot,70,SM-A037F,A,Natural sunlight,Clear,Vineyard_23
+IMG_0525,black rot526.jpg,Black Rot,74,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_0526,black rot527.jpg,Black Rot,73,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_0527,black rot528.jpg,Black Rot,59,SM-A037F,A,Overcast,Clear,Vineyard_12
+IMG_0528,black rot529.jpg,Black Rot,71,SM-A037F,A,Overcast,Windy,Vineyard_21
+IMG_0529,black rot530.jpg,Black Rot,60,SM-A037F,A,Overcast,Windy,Vineyard_9
+IMG_0530,black rot531.jpg,Black Rot,72,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_0531,black rot532.jpg,Black Rot,61,SM-A037F,A,Partly cloudy,Windy,Vineyard_20
+IMG_0532,black rot533.jpg,Black Rot,73,SM-A037F,A,Natural sunlight,Humid,Vineyard_5
+IMG_0533,black rot534.jpg,Black Rot,62,SM-A037F,A,Natural sunlight,Humid,Vineyard_11
+IMG_0534,black rot535.jpg,Black Rot,54,SM-A037F,A,Partly cloudy,Humid,Vineyard_13
+IMG_0535,black rot536.jpg,Black Rot,63,SM-A037F,A,Overcast,Humid,Vineyard_25
+IMG_0536,black rot537.jpg,Black Rot,55,SM-A037F,A,Overcast,Windy,Vineyard_13
+IMG_0537,black rot538.jpg,Black Rot,64,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_0538,black rot539.jpg,Black Rot,56,SM-A037F,A,Partly cloudy,Windy,Vineyard_14
+IMG_0539,black rot540.jpg,Black Rot,65,SM-A037F,A,Partly cloudy,Windy,Vineyard_19
+IMG_0540,black rot541.jpg,Black Rot,57,SM-A037F,A,Partly cloudy,Clear,Vineyard_2
+IMG_0541,black rot542.jpg,Black Rot,66,SM-A037F,A,Natural sunlight,Humid,Vineyard_15
+IMG_0542,black rot543.jpg,Black Rot,58,SM-A037F,A,Natural sunlight,Windy,Vineyard_25
+IMG_0543,black rot544.jpg,Black Rot,67,SM-A037F,A,Overcast,Windy,Vineyard_12
+IMG_0544,black rot545.jpg,Black Rot,74,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_0545,black rot546.jpg,Black Rot,68,SM-A037F,A,Natural sunlight,Humid,Vineyard_27
+IMG_0546,black rot547.jpg,Black Rot,74,SM-A037F,A,Partly cloudy,Windy,Vineyard_17
+IMG_0547,black rot548.jpg,Black Rot,69,SM-A037F,A,Natural sunlight,Humid,Vineyard_14
+IMG_0548,black rot549.jpg,Black Rot,59,SM-A037F,A,Partly cloudy,Clear,Vineyard_13
+IMG_0549,black rot550.jpg,Black Rot,70,SM-A037F,A,Partly cloudy,Humid,Vineyard_26
+IMG_0550,black rot551.jpg,Black Rot,60,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_0551,black rot552.jpg,Black Rot,71,SM-A037F,A,Overcast,Humid,Vineyard_18
+IMG_0552,black rot553.jpg,Black Rot,61,SM-A037F,A,Natural sunlight,Humid,Vineyard_16
+IMG_0553,black rot554.jpg,Black Rot,72,SM-A037F,A,Partly cloudy,Humid,Vineyard_14
+IMG_0554,black rot555.jpg,Black Rot,62,SM-A037F,A,Partly cloudy,Humid,Vineyard_1
+IMG_0555,black rot556.jpg,Black Rot,73,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_0556,black rot557.jpg,Black Rot,63,SM-A037F,A,Partly cloudy,Clear,Vineyard_27
+IMG_0557,black rot558.jpg,Black Rot,74,SM-A037F,A,Natural sunlight,Windy,Vineyard_28
+IMG_0558,black rot559.jpg,Black Rot,43,SM-A037F,A,Partly cloudy,Clear,Vineyard_23
+IMG_0559,black rot560.jpg,Black Rot,36,SM-A037F,A,Partly cloudy,Clear,Vineyard_27
+IMG_0560,black rot561.jpg,Black Rot,44,SM-A037F,A,Natural sunlight,Windy,Vineyard_16
+IMG_0561,black rot562.jpg,Black Rot,37,SM-A037F,A,Natural sunlight,Humid,Vineyard_22
+IMG_0562,black rot563.jpg,Black Rot,45,SM-A037F,A,Overcast,Windy,Vineyard_25
+IMG_0563,black rot564.jpg,Black Rot,38,SM-A037F,A,Overcast,Clear,Vineyard_18
+IMG_0564,black rot565.jpg,Black Rot,46,SM-A037F,A,Natural sunlight,Windy,Vineyard_16
+IMG_0565,black rot566.jpg,Black Rot,39,SM-A037F,A,Natural sunlight,Clear,Vineyard_12
+IMG_0566,black rot567.jpg,Black Rot,41,SM-A037F,A,Natural sunlight,Humid,Vineyard_5
+IMG_0567,black rot568.jpg,Black Rot,40,SM-A037F,A,Natural sunlight,Humid,Vineyard_3
+IMG_0568,black rot569.jpg,Black Rot,47,SM-A037F,A,Partly cloudy,Humid,Vineyard_13
+IMG_0569,black rot570.jpg,Black Rot,41,SM-A037F,A,Overcast,Windy,Vineyard_8
+IMG_0570,black rot571.jpg,Black Rot,42,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_0571,black rot572.jpg,Black Rot,42,SM-A037F,A,Natural sunlight,Windy,Vineyard_3
+IMG_0572,black rot573.jpg,Black Rot,43,SM-A037F,A,Partly cloudy,Humid,Vineyard_7
+IMG_0573,black rot574.jpg,Black Rot,43,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_0574,black rot575.jpg,Black Rot,44,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_0575,black rot576.jpg,Black Rot,44,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_0576,black rot577.jpg,Black Rot,48,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_0577,black rot578.jpg,Black Rot,45,SM-A037F,A,Overcast,Windy,Vineyard_1
+IMG_0578,black rot579.jpg,Black Rot,75,SM-A037F,A,Natural sunlight,Windy,Vineyard_14
+IMG_0579,black rot580.jpg,Black Rot,75,SM-A037F,A,Partly cloudy,Clear,Vineyard_11
+IMG_0580,black rot581.jpg,Black Rot,75,SM-A037F,A,Partly cloudy,Humid,Vineyard_28
+IMG_0581,black rot582.jpg,Black Rot,75,SM-A037F,A,Partly cloudy,Humid,Vineyard_19
+IMG_0582,black rot583.jpg,Black Rot,75,SM-A037F,A,Overcast,Humid,Vineyard_10
+IMG_0583,black rot584.jpg,Black Rot,75,SM-A037F,A,Partly cloudy,Windy,Vineyard_3
+IMG_0584,black rot585.jpg,Black Rot,75,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0585,black rot586.jpg,Black Rot,75,SM-A037F,A,Partly cloudy,Windy,Vineyard_8
+IMG_0586,black rot587.jpg,Black Rot,76,SM-A037F,A,Natural sunlight,Windy,Vineyard_7
+IMG_0587,black rot588.jpg,Black Rot,76,SM-A037F,A,Overcast,Clear,Vineyard_18
+IMG_0588,black rot589.jpg,Black Rot,76,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_0589,black rot590.jpg,Black Rot,76,SM-A037F,A,Overcast,Humid,Vineyard_4
+IMG_0590,black rot591.jpg,Black Rot,76,SM-A037F,A,Overcast,Windy,Vineyard_22
+IMG_0591,black rot592.jpg,Black Rot,76,SM-A037F,A,Overcast,Humid,Vineyard_7
+IMG_0592,black rot593.jpg,Black Rot,76,SM-A037F,A,Partly cloudy,Humid,Vineyard_11
+IMG_0593,black rot594.jpg,Black Rot,76,SM-A037F,A,Natural sunlight,Windy,Vineyard_28
+IMG_0594,black rot595.jpg,Black Rot,49,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_0595,black rot596.jpg,Black Rot,46,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_0596,black rot597.jpg,Black Rot,50,SM-A037F,A,Overcast,Windy,Vineyard_16
+IMG_0597,black rot598.jpg,Black Rot,47,SM-A037F,A,Overcast,Clear,Vineyard_14
+IMG_0598,black rot599.jpg,Black Rot,51,SM-A037F,A,Natural sunlight,Humid,Vineyard_7
+IMG_0599,black rot600.jpg,Black Rot,48,SM-A037F,A,Overcast,Windy,Vineyard_18
+IMG_0600,black rot601.jpg,Black Rot,52,SM-A037F,A,Overcast,Humid,Vineyard_20
+IMG_0601,black rot602.jpg,Black Rot,49,SM-A037F,A,Natural sunlight,Windy,Vineyard_23
+IMG_0602,black rot603.jpg,Black Rot,53,SM-A037F,A,Partly cloudy,Clear,Vineyard_23
+IMG_0603,black rot604.jpg,Black Rot,50,SM-A037F,A,Natural sunlight,Clear,Vineyard_4
+IMG_0604,black rot605.jpg,Black Rot,54,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_0605,black rot606.jpg,Black Rot,51,SM-A037F,A,Natural sunlight,Humid,Vineyard_4
+IMG_0606,black rot607.jpg,Black Rot,55,SM-A037F,A,Partly cloudy,Clear,Vineyard_24
+IMG_0607,black rot608.jpg,Black Rot,52,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0608,black rot609.jpg,Black Rot,77,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_0609,black rot610.jpg,Black Rot,77,SM-A037F,A,Natural sunlight,Windy,Vineyard_18
+IMG_0610,black rot611.jpg,Black Rot,77,SM-A037F,A,Natural sunlight,Windy,Vineyard_20
+IMG_0611,black rot612.jpg,Black Rot,77,SM-A037F,A,Overcast,Windy,Vineyard_15
+IMG_0612,black rot613.jpg,Black Rot,77,SM-A037F,A,Overcast,Windy,Vineyard_25
+IMG_0613,black rot614.jpg,Black Rot,77,SM-A037F,A,Natural sunlight,Humid,Vineyard_11
+IMG_0614,black rot615.jpg,Black Rot,77,SM-A037F,A,Overcast,Humid,Vineyard_22
+IMG_0615,black rot616.jpg,Black Rot,77,SM-A037F,A,Partly cloudy,Clear,Vineyard_5
+IMG_0616,black rot617.jpg,Black Rot,45,SM-A037F,A,Partly cloudy,Clear,Vineyard_21
+IMG_0617,black rot618.jpg,Black Rot,53,SM-A037F,A,Overcast,Windy,Vineyard_17
+IMG_0618,black rot619.jpg,Black Rot,56,SM-A037F,A,Overcast,Windy,Vineyard_3
+IMG_0619,black rot620.jpg,Black Rot,54,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0620,black rot621.jpg,Black Rot,57,SM-A037F,A,Partly cloudy,Humid,Vineyard_8
+IMG_0621,black rot622.jpg,Black Rot,55,SM-A037F,A,Overcast,Windy,Vineyard_14
+IMG_0622,black rot623.jpg,Black Rot,58,SM-A037F,A,Partly cloudy,Windy,Vineyard_9
+IMG_0623,black rot624.jpg,Black Rot,56,SM-A037F,A,Overcast,Windy,Vineyard_16
+IMG_0624,black rot625.jpg,Black Rot,59,SM-A037F,A,Overcast,Clear,Vineyard_27
+IMG_0625,black rot626.jpg,Black Rot,57,SM-A037F,A,Natural sunlight,Windy,Vineyard_6
+IMG_0626,black rot627.jpg,Black Rot,60,SM-A037F,A,Partly cloudy,Clear,Vineyard_10
+IMG_0627,black rot628.jpg,Black Rot,58,SM-A037F,A,Natural sunlight,Clear,Vineyard_12
+IMG_0628,black rot629.jpg,Black Rot,78,SM-A037F,A,Partly cloudy,Clear,Vineyard_8
+IMG_0629,black rot630.jpg,Black Rot,78,SM-A037F,A,Natural sunlight,Windy,Vineyard_2
+IMG_0630,black rot631.jpg,Black Rot,78,SM-A037F,A,Natural sunlight,Clear,Vineyard_21
+IMG_0631,black rot632.jpg,Black Rot,78,SM-A037F,A,Overcast,Windy,Vineyard_1
+IMG_0632,black rot633.jpg,Black Rot,78,SM-A037F,A,Partly cloudy,Clear,Vineyard_13
+IMG_0633,black rot634.jpg,Black Rot,78,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_0634,black rot635.jpg,Black Rot,78,SM-A037F,A,Overcast,Humid,Vineyard_15
+IMG_0635,black rot636.jpg,Black Rot,78,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_0636,black rot637.jpg,Black Rot,61,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_0637,black rot638.jpg,Black Rot,59,SM-A037F,A,Overcast,Clear,Vineyard_18
+IMG_0638,black rot639.jpg,Black Rot,62,SM-A037F,A,Natural sunlight,Windy,Vineyard_12
+IMG_0639,black rot640.jpg,Black Rot,60,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_0640,black rot641.jpg,Black Rot,63,SM-A037F,A,Natural sunlight,Clear,Vineyard_28
+IMG_0641,black rot642.jpg,Black Rot,61,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_0642,black rot643.jpg,Black Rot,46,SM-A037F,A,Overcast,Clear,Vineyard_15
+IMG_0643,black rot644.jpg,Black Rot,62,SM-A037F,A,Overcast,Windy,Vineyard_23
+IMG_0644,black rot645.jpg,Black Rot,47,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_0645,black rot646.jpg,Black Rot,63,SM-A037F,A,Partly cloudy,Humid,Vineyard_1
+IMG_0646,black rot647.jpg,Black Rot,48,SM-A037F,A,Overcast,Windy,Vineyard_6
+IMG_0647,black rot648.jpg,Black Rot,49,SM-A037F,A,Overcast,Clear,Vineyard_21
+IMG_0648,black rot649.jpg,Black Rot,79,SM-A037F,A,Overcast,Clear,Vineyard_4
+IMG_0649,black rot650.jpg,Black Rot,79,SM-A037F,A,Overcast,Windy,Vineyard_18
+IMG_0650,black rot651.jpg,Black Rot,79,SM-A037F,A,Partly cloudy,Windy,Vineyard_14
+IMG_0651,black rot652.jpg,Black Rot,79,SM-A037F,A,Overcast,Clear,Vineyard_5
+IMG_0652,black rot653.jpg,Black Rot,80,SM-A037F,A,Natural sunlight,Windy,Vineyard_13
+IMG_0653,black rot654.jpg,Black Rot,80,SM-A037F,A,Natural sunlight,Windy,Vineyard_7
+IMG_0654,black rot655.jpg,Black Rot,80,SM-A037F,A,Natural sunlight,Humid,Vineyard_26
+IMG_0655,black rot656.jpg,Black Rot,80,SM-A037F,A,Overcast,Windy,Vineyard_20
+IMG_0656,black rot657.jpg,Black Rot,81,SM-A037F,A,Partly cloudy,Windy,Vineyard_8
+IMG_0657,black rot658.jpg,Black Rot,81,SM-A037F,A,Overcast,Clear,Vineyard_20
+IMG_0658,black rot659.jpg,Black Rot,81,SM-A037F,A,Natural sunlight,Humid,Vineyard_28
+IMG_0659,black rot660.jpg,Black Rot,81,SM-A037F,A,Partly cloudy,Humid,Vineyard_6
+IMG_0660,black rot661.jpg,Black Rot,82,SM-A037F,A,Overcast,Clear,Vineyard_24
+IMG_0661,black rot662.jpg,Black Rot,82,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_0662,black rot663.jpg,Black Rot,82,SM-A037F,A,Natural sunlight,Clear,Vineyard_5
+IMG_0663,black rot664.jpg,Black Rot,82,SM-A037F,A,Overcast,Windy,Vineyard_20
+IMG_0664,black rot665.jpg,Black Rot,83,SM-A037F,A,Natural sunlight,Humid,Vineyard_24
+IMG_0665,black rot666.jpg,Black Rot,83,SM-A037F,A,Natural sunlight,Windy,Vineyard_19
+IMG_0666,black rot667.jpg,Black Rot,83,SM-A037F,A,Overcast,Windy,Vineyard_25
+IMG_0667,black rot668.jpg,Black Rot,83,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_0668,black rot669.jpg,Black Rot,79,SM-A037F,A,Overcast,Clear,Vineyard_28
+IMG_0669,black rot670.jpg,Black Rot,79,SM-A037F,A,Partly cloudy,Clear,Vineyard_27
+IMG_0670,black rot671.jpg,Black Rot,80,SM-A037F,A,Overcast,Humid,Vineyard_11
+IMG_0671,black rot672.jpg,Black Rot,80,SM-A037F,A,Partly cloudy,Humid,Vineyard_19
+IMG_0672,black rot673.jpg,Black Rot,81,SM-A037F,A,Overcast,Clear,Vineyard_9
+IMG_0673,black rot674.jpg,Black Rot,81,SM-A037F,A,Partly cloudy,Humid,Vineyard_3
+IMG_0674,black rot675.jpg,Black Rot,82,SM-A037F,A,Natural sunlight,Clear,Vineyard_25
+IMG_0675,black rot676.jpg,Black Rot,82,SM-A037F,A,Overcast,Clear,Vineyard_6
+IMG_0676,black rot677.jpg,Black Rot,84,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_0677,black rot678.jpg,Black Rot,84,SM-A037F,A,Partly cloudy,Windy,Vineyard_20
+IMG_0678,black rot679.jpg,Black Rot,84,SM-A037F,A,Natural sunlight,Humid,Vineyard_25
+IMG_0679,black rot680.jpg,Black Rot,84,SM-A037F,A,Partly cloudy,Windy,Vineyard_18
+IMG_0680,black rot681.jpg,Black Rot,83,SM-A037F,A,Natural sunlight,Humid,Vineyard_20
+IMG_0681,black rot682.jpg,Black Rot,83,SM-A037F,A,Partly cloudy,Humid,Vineyard_9
+IMG_0682,black rot683.jpg,Black Rot,79,SM-A037F,A,Natural sunlight,Clear,Vineyard_17
+IMG_0683,black rot684.jpg,Black Rot,84,SM-A037F,A,Natural sunlight,Clear,Vineyard_18
+IMG_0684,black rot685.jpg,Black Rot,80,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_0685,black rot686.jpg,Black Rot,79,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_0686,black rot687.jpg,Black Rot,81,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_0687,black rot688.jpg,Black Rot,80,SM-A037F,A,Overcast,Humid,Vineyard_26
+IMG_0688,black rot689.jpg,Black Rot,82,SM-A037F,A,Natural sunlight,Windy,Vineyard_24
+IMG_0689,black rot690.jpg,Black Rot,81,SM-A037F,A,Partly cloudy,Windy,Vineyard_1
+IMG_0690,black rot691.jpg,Black Rot,84,SM-A037F,A,Natural sunlight,Windy,Vineyard_15
+IMG_0691,black rot692.jpg,Black Rot,82,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_0692,black rot693.jpg,Black Rot,83,SM-A037F,A,Natural sunlight,Humid,Vineyard_13
+IMG_0693,black rot694.jpg,Black Rot,83,SM-A037F,A,Overcast,Clear,Vineyard_10
+IMG_0694,black rot695.jpg,Black Rot,84,SM-A037F,A,Partly cloudy,Clear,Vineyard_12
+IMG_0695,black rot696.jpg,Black Rot,84,SM-A037F,A,Overcast,Humid,Vineyard_17
+IMG_0696,black rot697.jpg,Black Rot,85,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_0697,black rot698.jpg,Black Rot,85,SM-A037F,A,Natural sunlight,Windy,Vineyard_8
+IMG_0698,black rot699.jpg,Black Rot,85,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_0699,black rot700.jpg,Black Rot,85,SM-A037F,A,Partly cloudy,Windy,Vineyard_8
+IMG_0700,black rot701.jpg,Black Rot,86,SM-A037F,A,Natural sunlight,Humid,Vineyard_27
+IMG_0701,black rot702.jpg,Black Rot,86,SM-A037F,A,Natural sunlight,Windy,Vineyard_4
+IMG_0702,black rot703.jpg,Black Rot,86,SM-A037F,A,Partly cloudy,Clear,Vineyard_20
+IMG_0703,black rot704.jpg,Black Rot,86,SM-A037F,A,Natural sunlight,Clear,Vineyard_21
+IMG_0704,black rot705.jpg,Black Rot,87,SM-A037F,A,Natural sunlight,Humid,Vineyard_14
+IMG_0705,black rot706.jpg,Black Rot,87,SM-A037F,A,Overcast,Humid,Vineyard_25
+IMG_0706,black rot707.jpg,Black Rot,87,SM-A037F,A,Partly cloudy,Windy,Vineyard_11
+IMG_0707,black rot708.jpg,Black Rot,87,SM-A037F,A,Partly cloudy,Clear,Vineyard_19
+IMG_0708,black rot709.jpg,Black Rot,88,SM-A037F,A,Overcast,Humid,Vineyard_12
+IMG_0709,black rot710.jpg,Black Rot,88,SM-A037F,A,Partly cloudy,Clear,Vineyard_20
+IMG_0710,black rot711.jpg,Black Rot,88,SM-A037F,A,Natural sunlight,Windy,Vineyard_14
+IMG_0711,black rot712.jpg,Black Rot,88,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_0712,black rot713.jpg,Black Rot,85,SM-A037F,A,Partly cloudy,Clear,Vineyard_17
+IMG_0713,black rot714.jpg,Black Rot,85,SM-A037F,A,Overcast,Humid,Vineyard_13
+IMG_0714,black rot715.jpg,Black Rot,86,SM-A037F,A,Partly cloudy,Humid,Vineyard_5
+IMG_0715,black rot716.jpg,Black Rot,86,SM-A037F,A,Partly cloudy,Humid,Vineyard_10
+IMG_0716,black rot717.jpg,Black Rot,87,SM-A037F,A,Natural sunlight,Windy,Vineyard_1
+IMG_0717,black rot718.jpg,Black Rot,87,SM-A037F,A,Natural sunlight,Clear,Vineyard_9
+IMG_0718,black rot719.jpg,Black Rot,88,SM-A037F,A,Natural sunlight,Clear,Vineyard_14
+IMG_0719,black rot720.jpg,Black Rot,88,SM-A037F,A,Partly cloudy,Humid,Vineyard_6
+IMG_0720,black rot721.jpg,Black Rot,85,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_0721,black rot722.jpg,Black Rot,85,SM-A037F,A,Natural sunlight,Clear,Vineyard_9
+IMG_0722,black rot723.jpg,Black Rot,89,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_0723,black rot724.jpg,Black Rot,89,SM-A037F,A,Partly cloudy,Clear,Vineyard_5
+IMG_0724,black rot725.jpg,Black Rot,89,SM-A037F,A,Natural sunlight,Clear,Vineyard_12
+IMG_0725,black rot726.jpg,Black Rot,89,SM-A037F,A,Partly cloudy,Clear,Vineyard_13
+IMG_0726,black rot727.jpg,Black Rot,86,SM-A037F,A,Overcast,Clear,Vineyard_21
+IMG_0727,black rot728.jpg,Black Rot,89,SM-A037F,A,Natural sunlight,Clear,Vineyard_24
+IMG_0728,black rot729.jpg,Black Rot,87,SM-A037F,A,Natural sunlight,Clear,Vineyard_9
+IMG_0729,black rot730.jpg,Black Rot,86,SM-A037F,A,Partly cloudy,Clear,Vineyard_9
+IMG_0730,black rot731.jpg,Black Rot,88,SM-A037F,A,Natural sunlight,Clear,Vineyard_25
+IMG_0731,black rot732.jpg,Black Rot,87,SM-A037F,A,Overcast,Humid,Vineyard_5
+IMG_0732,black rot733.jpg,Black Rot,89,SM-A037F,A,Partly cloudy,Clear,Vineyard_8
+IMG_0733,black rot734.jpg,Black Rot,88,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_0734,black rot735.jpg,Black Rot,89,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_0735,black rot736.jpg,Black Rot,89,SM-A037F,A,Overcast,Windy,Vineyard_2
+IMG_0736,black rot737.jpg,Black Rot,90,SM-A037F,A,Partly cloudy,Windy,Vineyard_18
+IMG_0737,black rot738.jpg,Black Rot,90,SM-A037F,A,Natural sunlight,Clear,Vineyard_16
+IMG_0738,black rot739.jpg,Black Rot,90,SM-A037F,A,Partly cloudy,Clear,Vineyard_6
+IMG_0739,black rot740.jpg,Black Rot,90,SM-A037F,A,Overcast,Humid,Vineyard_3
+IMG_0740,black rot741.jpg,Black Rot,90,SM-A037F,A,Overcast,Windy,Vineyard_11
+IMG_0741,black rot742.jpg,Black Rot,90,SM-A037F,A,Overcast,Humid,Vineyard_21
+IMG_0742,black rot743.jpg,Black Rot,90,SM-A037F,A,Partly cloudy,Clear,Vineyard_15
+IMG_0743,black rot744.jpg,Black Rot,90,SM-A037F,A,Partly cloudy,Humid,Vineyard_20
+IMG_0744,black rot745.jpg,Black Rot,91,SM-A037F,A,Overcast,Clear,Vineyard_21
+IMG_0745,black rot746.jpg,Black Rot,91,SM-A037F,A,Overcast,Clear,Vineyard_8
+IMG_0746,black rot747.jpg,Black Rot,91,SM-A037F,A,Partly cloudy,Clear,Vineyard_27
+IMG_0747,black rot748.jpg,Black Rot,91,SM-A037F,A,Partly cloudy,Clear,Vineyard_26
+IMG_0748,black rot749.jpg,Black Rot,91,SM-A037F,A,Natural sunlight,Humid,Vineyard_15
+IMG_0749,black rot750.jpg,Black Rot,91,SM-A037F,A,Natural sunlight,Clear,Vineyard_1
+IMG_0750,black rot751.jpg,Black Rot,91,SM-A037F,A,Overcast,Humid,Vineyard_22
+IMG_0751,black rot752.jpg,Black Rot,91,SM-A037F,A,Natural sunlight,Clear,Vineyard_24
+IMG_0752,black rot753.jpg,Black Rot,92,SM-A037F,A,Partly cloudy,Clear,Vineyard_24
+IMG_0753,black rot754.jpg,Black Rot,92,SM-A037F,A,Overcast,Clear,Vineyard_26
+IMG_0754,black rot755.jpg,Black Rot,92,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_0755,black rot756.jpg,Black Rot,92,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_0756,black rot757.jpg,Black Rot,92,SM-A037F,A,Overcast,Clear,Vineyard_5
+IMG_0757,black rot758.jpg,Black Rot,92,SM-A037F,A,Partly cloudy,Windy,Vineyard_4
+IMG_0758,black rot759.jpg,Black Rot,93,SM-A037F,A,Natural sunlight,Windy,Vineyard_19
+IMG_0759,black rot760.jpg,Black Rot,93,SM-A037F,A,Natural sunlight,Windy,Vineyard_1
+IMG_0760,black rot761.jpg,Black Rot,93,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_0761,black rot762.jpg,Black Rot,93,SM-A037F,A,Natural sunlight,Windy,Vineyard_18
+IMG_0762,black rot763.jpg,Black Rot,92,SM-A037F,A,Overcast,Clear,Vineyard_10
+IMG_0763,black rot764.jpg,Black Rot,93,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_0764,black rot765.jpg,Black Rot,93,SM-A037F,A,Partly cloudy,Clear,Vineyard_20
+IMG_0765,black rot766.jpg,Black Rot,92,SM-A037F,A,Natural sunlight,Humid,Vineyard_18
+IMG_0766,black rot767.jpg,Black Rot,93,SM-A037F,A,Overcast,Windy,Vineyard_8
+IMG_0767,black rot768.jpg,Black Rot,93,SM-A037F,A,Natural sunlight,Clear,Vineyard_22
+IMG_0768,black rot769.jpg,Black Rot,94,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_0769,black rot770.jpg,Black Rot,94,SM-A037F,A,Overcast,Clear,Vineyard_26
+IMG_0770,black rot771.jpg,Black Rot,94,SM-A037F,A,Overcast,Humid,Vineyard_3
+IMG_0771,black rot772.jpg,Black Rot,94,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_0772,black rot773.jpg,Black Rot,94,SM-A037F,A,Natural sunlight,Windy,Vineyard_26
+IMG_0773,black rot774.jpg,Black Rot,94,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_0774,black rot775.jpg,Black Rot,94,SM-A037F,A,Overcast,Windy,Vineyard_10
+IMG_0775,black rot776.jpg,Black Rot,94,SM-A037F,A,Partly cloudy,Clear,Vineyard_3
+IMG_0776,black rot777.jpg,Black Rot,95,SM-A037F,A,Natural sunlight,Clear,Vineyard_25
+IMG_0777,black rot778.jpg,Black Rot,95,SM-A037F,A,Natural sunlight,Windy,Vineyard_2
+IMG_0778,black rot779.jpg,Black Rot,95,SM-A037F,A,Partly cloudy,Clear,Vineyard_18
+IMG_0779,black rot780.jpg,Black Rot,95,SM-A037F,A,Partly cloudy,Humid,Vineyard_23
+IMG_0780,black rot781.jpg,Black Rot,95,SM-A037F,A,Overcast,Humid,Vineyard_25
+IMG_0781,black rot782.jpg,Black Rot,95,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_0782,black rot783.jpg,Black Rot,95,SM-A037F,A,Partly cloudy,Windy,Vineyard_7
+IMG_0783,black rot784.jpg,Black Rot,95,SM-A037F,A,Natural sunlight,Clear,Vineyard_22
+IMG_0784,black rot785.jpg,Black Rot,96,SM-A037F,A,Overcast,Clear,Vineyard_22
+IMG_0785,black rot786.jpg,Black Rot,96,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_0786,black rot787.jpg,Black Rot,96,SM-A037F,A,Natural sunlight,Clear,Vineyard_4
+IMG_0787,black rot788.jpg,Black Rot,96,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_0788,black rot789.jpg,Black Rot,96,SM-A037F,A,Overcast,Clear,Vineyard_12
+IMG_0789,black rot790.jpg,Black Rot,96,SM-A037F,A,Natural sunlight,Clear,Vineyard_12
+IMG_0790,black rot791.jpg,Black Rot,96,SM-A037F,A,Partly cloudy,Windy,Vineyard_7
+IMG_0791,black rot792.jpg,Black Rot,96,SM-A037F,A,Overcast,Humid,Vineyard_4
+IMG_0808,mega dataset (31) - Copy - Copy - Copy.jpg,Black Rot,0,M2101K6I,B,Natural sunlight,Windy,Vineyard_12
+IMG_1697,leaf blight001.jpg,Leaf Blight,987,M2101K6I,B,Overcast,Humid,Vineyard_5
+IMG_1698,leaf blight002.jpg,Leaf Blight,987,M2101K6I,B,Overcast,Humid,Vineyard_12
+IMG_1699,leaf blight003.jpg,Leaf Blight,988,M2101K6I,B,Overcast,Clear,Vineyard_19
+IMG_1700,leaf blight004.jpg,Leaf Blight,988,M2101K6I,B,Partly cloudy,Clear,Vineyard_16
+IMG_1701,leaf blight005.jpg,Leaf Blight,989,M2101K6I,B,Partly cloudy,Clear,Vineyard_18
+IMG_1702,leaf blight006.jpg,Leaf Blight,989,M2101K6I,B,Overcast,Windy,Vineyard_10
+IMG_1703,leaf blight007.jpg,Leaf Blight,990,M2101K6I,B,Natural sunlight,Clear,Vineyard_18
+IMG_1704,leaf blight008.jpg,Leaf Blight,990,M2101K6I,B,Overcast,Humid,Vineyard_6
+IMG_1705,leaf blight009.jpg,Leaf Blight,991,M2101K6I,B,Natural sunlight,Clear,Vineyard_18
+IMG_1706,leaf blight010.jpg,Leaf Blight,991,M2101K6I,B,Natural sunlight,Windy,Vineyard_12
+IMG_1707,leaf blight011.jpg,Leaf Blight,992,M2101K6I,B,Partly cloudy,Clear,Vineyard_13
+IMG_1708,leaf blight012.jpg,Leaf Blight,992,M2101K6I,B,Overcast,Clear,Vineyard_2
+IMG_1709,leaf blight013.jpg,Leaf Blight,993,M2101K6I,B,Partly cloudy,Windy,Vineyard_7
+IMG_1710,leaf blight014.jpg,Leaf Blight,993,M2101K6I,B,Natural sunlight,Clear,Vineyard_6
+IMG_1711,leaf blight015.jpg,Leaf Blight,994,M2101K6I,B,Natural sunlight,Humid,Vineyard_8
+IMG_1712,leaf blight016.jpg,Leaf Blight,994,M2101K6I,B,Overcast,Windy,Vineyard_25
+IMG_1713,leaf blight017.jpg,Leaf Blight,995,M2101K6I,B,Partly cloudy,Windy,Vineyard_1
+IMG_1714,leaf blight018.jpg,Leaf Blight,995,M2101K6I,B,Overcast,Windy,Vineyard_19
+IMG_1715,leaf blight019.jpg,Leaf Blight,996,M2101K6I,B,Natural sunlight,Humid,Vineyard_1
+IMG_1716,leaf blight020.jpg,Leaf Blight,996,M2101K6I,B,Overcast,Humid,Vineyard_23
+IMG_1717,leaf blight021.jpg,Leaf Blight,997,M2101K6I,B,Partly cloudy,Clear,Vineyard_18
+IMG_1718,leaf blight022.jpg,Leaf Blight,997,M2101K6I,B,Overcast,Windy,Vineyard_23
+IMG_1719,leaf blight023.jpg,Leaf Blight,998,M2101K6I,B,Partly cloudy,Humid,Vineyard_21
+IMG_1720,leaf blight024.jpg,Leaf Blight,998,M2101K6I,B,Natural sunlight,Humid,Vineyard_15
+IMG_1721,leaf blight025.jpg,Leaf Blight,999,M2101K6I,B,Overcast,Clear,Vineyard_22
+IMG_1722,leaf blight026.jpg,Leaf Blight,999,M2101K6I,B,Natural sunlight,Clear,Vineyard_13
+IMG_1723,leaf blight027.jpg,Leaf Blight,1000,M2101K6I,B,Natural sunlight,Clear,Vineyard_22
+IMG_1724,leaf blight028.jpg,Leaf Blight,1000,M2101K6I,B,Overcast,Humid,Vineyard_9
+IMG_1725,leaf blight029.jpg,Leaf Blight,1001,M2101K6I,B,Overcast,Humid,Vineyard_13
+IMG_1726,leaf blight030.jpg,Leaf Blight,1001,M2101K6I,B,Natural sunlight,Windy,Vineyard_28
+IMG_1727,leaf blight031.jpg,Leaf Blight,1002,M2101K6I,B,Natural sunlight,Clear,Vineyard_5
+IMG_1728,leaf blight032.jpg,Leaf Blight,1002,M2101K6I,B,Natural sunlight,Clear,Vineyard_6
+IMG_1729,leaf blight033.jpg,Leaf Blight,1003,M2101K6I,B,Overcast,Windy,Vineyard_26
+IMG_1730,leaf blight034.jpg,Leaf Blight,1003,M2101K6I,B,Overcast,Windy,Vineyard_27
+IMG_1731,leaf blight035.jpg,Leaf Blight,1004,M2101K6I,B,Natural sunlight,Humid,Vineyard_6
+IMG_1732,leaf blight036.jpg,Leaf Blight,1004,M2101K6I,B,Overcast,Humid,Vineyard_13
+IMG_1733,leaf blight037.jpg,Leaf Blight,1004,M2101K6I,B,Natural sunlight,Clear,Vineyard_11
+IMG_1734,leaf blight038.jpg,Leaf Blight,1004,M2101K6I,B,Overcast,Windy,Vineyard_13
+IMG_1735,leaf blight039.jpg,Leaf Blight,1005,M2101K6I,B,Overcast,Clear,Vineyard_19
+IMG_1736,leaf blight040.jpg,Leaf Blight,1005,M2101K6I,B,Partly cloudy,Windy,Vineyard_20
+IMG_1737,leaf blight041.jpg,Leaf Blight,1006,M2101K6I,B,Overcast,Humid,Vineyard_14
+IMG_1738,leaf blight042.jpg,Leaf Blight,1006,M2101K6I,B,Natural sunlight,Humid,Vineyard_20
+IMG_1739,leaf blight043.jpg,Leaf Blight,1007,M2101K6I,B,Overcast,Windy,Vineyard_3
+IMG_1740,leaf blight044.jpg,Leaf Blight,1007,M2101K6I,B,Partly cloudy,Humid,Vineyard_12
+IMG_1741,leaf blight045.jpg,Leaf Blight,1008,M2101K6I,B,Overcast,Clear,Vineyard_3
+IMG_1742,leaf blight046.jpg,Leaf Blight,1008,M2101K6I,B,Partly cloudy,Humid,Vineyard_21
+IMG_1743,leaf blight047.jpg,Leaf Blight,1009,M2101K6I,B,Partly cloudy,Humid,Vineyard_22
+IMG_1744,leaf blight048.jpg,Leaf Blight,1009,M2101K6I,B,Partly cloudy,Humid,Vineyard_10
+IMG_1745,leaf blight049.jpg,Leaf Blight,1010,M2101K6I,B,Natural sunlight,Windy,Vineyard_16
+IMG_1746,leaf blight050.jpg,Leaf Blight,1010,M2101K6I,B,Overcast,Clear,Vineyard_9
+IMG_1747,leaf blight051.jpg,Leaf Blight,1011,M2101K6I,B,Partly cloudy,Windy,Vineyard_5
+IMG_1748,leaf blight052.jpg,Leaf Blight,1011,M2101K6I,B,Natural sunlight,Clear,Vineyard_13
+IMG_1749,leaf blight053.jpg,Leaf Blight,1012,M2101K6I,B,Overcast,Clear,Vineyard_22
+IMG_1750,leaf blight054.jpg,Leaf Blight,1012,M2101K6I,B,Partly cloudy,Windy,Vineyard_27
+IMG_1751,leaf blight055.jpg,Leaf Blight,1013,M2101K6I,B,Natural sunlight,Windy,Vineyard_16
+IMG_1752,leaf blight056.jpg,Leaf Blight,1013,M2101K6I,B,Partly cloudy,Windy,Vineyard_3
+IMG_1753,leaf blight057.jpg,Leaf Blight,1014,M2101K6I,B,Partly cloudy,Clear,Vineyard_4
+IMG_1754,leaf blight058.jpg,Leaf Blight,1014,M2101K6I,B,Partly cloudy,Windy,Vineyard_14
+IMG_1755,leaf blight059.jpg,Leaf Blight,1015,M2101K6I,B,Overcast,Humid,Vineyard_14
+IMG_1756,leaf blight060.jpg,Leaf Blight,1015,M2101K6I,B,Partly cloudy,Windy,Vineyard_25
+IMG_1757,leaf blight061.jpg,Leaf Blight,1016,M2101K6I,B,Natural sunlight,Clear,Vineyard_27
+IMG_1758,leaf blight062.jpg,Leaf Blight,1016,M2101K6I,B,Overcast,Humid,Vineyard_18
+IMG_1759,leaf blight063.jpg,Leaf Blight,1017,M2101K6I,B,Partly cloudy,Windy,Vineyard_19
+IMG_1760,leaf blight064.jpg,Leaf Blight,1017,M2101K6I,B,Natural sunlight,Clear,Vineyard_13
+IMG_1761,leaf blight065.jpg,Leaf Blight,1018,M2101K6I,B,Overcast,Windy,Vineyard_23
+IMG_1762,leaf blight066.jpg,Leaf Blight,1018,M2101K6I,B,Overcast,Clear,Vineyard_18
+IMG_1763,leaf blight067.jpg,Leaf Blight,1019,M2101K6I,B,Partly cloudy,Humid,Vineyard_13
+IMG_1764,leaf blight068.jpg,Leaf Blight,1019,M2101K6I,B,Overcast,Humid,Vineyard_22
+IMG_1765,leaf blight069.jpg,Leaf Blight,1020,M2101K6I,B,Partly cloudy,Clear,Vineyard_23
+IMG_1766,leaf blight070.jpg,Leaf Blight,1020,M2101K6I,B,Natural sunlight,Humid,Vineyard_26
+IMG_1767,leaf blight071.jpg,Leaf Blight,1021,M2101K6I,B,Partly cloudy,Windy,Vineyard_6
+IMG_1768,leaf blight072.jpg,Leaf Blight,1021,M2101K6I,B,Overcast,Windy,Vineyard_16
+IMG_1769,leaf blight073.jpg,Leaf Blight,1022,M2101K6I,B,Natural sunlight,Clear,Vineyard_11
+IMG_1770,leaf blight074.jpg,Leaf Blight,1022,M2101K6I,B,Overcast,Windy,Vineyard_9
+IMG_1771,leaf blight075.jpg,Leaf Blight,1023,M2101K6I,B,Natural sunlight,Humid,Vineyard_22
+IMG_1772,leaf blight076.jpg,Leaf Blight,1023,M2101K6I,B,Partly cloudy,Humid,Vineyard_4
+IMG_1773,leaf blight077.jpg,Leaf Blight,1024,SM-A037F,A,Natural sunlight,Clear,Vineyard_21
+IMG_1774,leaf blight078.jpg,Leaf Blight,1024,SM-A037F,A,Natural sunlight,Clear,Vineyard_21
+IMG_1775,leaf blight079.jpg,Leaf Blight,1025,SM-A037F,A,Partly cloudy,Clear,Vineyard_11
+IMG_1776,leaf blight080.jpg,Leaf Blight,1025,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_1777,leaf blight081.jpg,Leaf Blight,1026,SM-A037F,A,Partly cloudy,Clear,Vineyard_1
+IMG_1778,leaf blight082.jpg,Leaf Blight,1026,SM-A037F,A,Partly cloudy,Windy,Vineyard_21
+IMG_1779,leaf blight083.jpg,Leaf Blight,1027,SM-A037F,A,Overcast,Humid,Vineyard_16
+IMG_1780,leaf blight084.jpg,Leaf Blight,1027,SM-A037F,A,Natural sunlight,Humid,Vineyard_12
+IMG_1781,leaf blight085.jpg,Leaf Blight,1028,SM-A037F,A,Partly cloudy,Clear,Vineyard_17
+IMG_1782,leaf blight086.jpg,Leaf Blight,1028,SM-A037F,A,Partly cloudy,Windy,Vineyard_28
+IMG_1783,leaf blight087.jpg,Leaf Blight,1029,SM-A037F,A,Overcast,Humid,Vineyard_18
+IMG_1784,leaf blight088.jpg,Leaf Blight,1029,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_1785,leaf blight089.jpg,Leaf Blight,1030,SM-A037F,A,Partly cloudy,Windy,Vineyard_12
+IMG_1786,leaf blight090.jpg,Leaf Blight,1030,SM-A037F,A,Natural sunlight,Clear,Vineyard_25
+IMG_1787,leaf blight091.jpg,Leaf Blight,1031,SM-A037F,A,Overcast,Humid,Vineyard_2
+IMG_1788,leaf blight092.jpg,Leaf Blight,1031,SM-A037F,A,Partly cloudy,Windy,Vineyard_5
+IMG_1789,leaf blight093.jpg,Leaf Blight,1032,SM-A037F,A,Natural sunlight,Humid,Vineyard_8
+IMG_1790,leaf blight094.jpg,Leaf Blight,1032,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_1791,leaf blight095.jpg,Leaf Blight,1033,SM-A037F,A,Natural sunlight,Humid,Vineyard_22
+IMG_1792,leaf blight096.jpg,Leaf Blight,1033,SM-A037F,A,Natural sunlight,Windy,Vineyard_9
+IMG_1793,leaf blight097.jpg,Leaf Blight,1034,SM-A037F,A,Partly cloudy,Humid,Vineyard_6
+IMG_1794,leaf blight098.jpg,Leaf Blight,1034,SM-A037F,A,Partly cloudy,Clear,Vineyard_13
+IMG_1795,leaf blight099.jpg,Leaf Blight,1035,SM-A037F,A,Partly cloudy,Humid,Vineyard_25
+IMG_1796,leaf blight100.jpg,Leaf Blight,1035,SM-A037F,A,Partly cloudy,Humid,Vineyard_15
+IMG_1797,leaf blight101.jpg,Leaf Blight,1036,SM-A037F,A,Partly cloudy,Humid,Vineyard_18
+IMG_1798,leaf blight102.jpg,Leaf Blight,1036,SM-A037F,A,Overcast,Humid,Vineyard_24
+IMG_1799,leaf blight103.jpg,Leaf Blight,1037,SM-A037F,A,Natural sunlight,Clear,Vineyard_6
+IMG_1800,leaf blight104.jpg,Leaf Blight,1037,SM-A037F,A,Partly cloudy,Clear,Vineyard_9
+IMG_1801,leaf blight105.jpg,Leaf Blight,1038,SM-A037F,A,Overcast,Clear,Vineyard_9
+IMG_1802,leaf blight106.jpg,Leaf Blight,1038,SM-A037F,A,Partly cloudy,Windy,Vineyard_27
+IMG_1803,leaf blight107.jpg,Leaf Blight,1039,SM-A037F,A,Partly cloudy,Clear,Vineyard_27
+IMG_1804,leaf blight108.jpg,Leaf Blight,1039,SM-A037F,A,Natural sunlight,Clear,Vineyard_23
+IMG_1805,leaf blight109.jpg,Leaf Blight,1040,SM-A037F,A,Partly cloudy,Windy,Vineyard_28
+IMG_1806,leaf blight110.jpg,Leaf Blight,1040,SM-A037F,A,Partly cloudy,Humid,Vineyard_16
+IMG_1807,leaf blight111.jpg,Leaf Blight,1041,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_1808,leaf blight112.jpg,Leaf Blight,1041,SM-A037F,A,Overcast,Clear,Vineyard_17
+IMG_1809,leaf blight113.jpg,Leaf Blight,1042,SM-A037F,A,Partly cloudy,Clear,Vineyard_9
+IMG_1810,leaf blight114.jpg,Leaf Blight,1042,SM-A037F,A,Overcast,Clear,Vineyard_4
+IMG_1811,leaf blight115.jpg,Leaf Blight,1043,SM-A037F,A,Partly cloudy,Clear,Vineyard_13
+IMG_1812,leaf blight116.jpg,Leaf Blight,1043,SM-A037F,A,Overcast,Clear,Vineyard_14
+IMG_1813,leaf blight117.jpg,Leaf Blight,1044,SM-A037F,A,Partly cloudy,Humid,Vineyard_15
+IMG_1814,leaf blight118.jpg,Leaf Blight,1044,SM-A037F,A,Natural sunlight,Windy,Vineyard_6
+IMG_1815,leaf blight119.jpg,Leaf Blight,1045,SM-A037F,A,Overcast,Clear,Vineyard_23
+IMG_1816,leaf blight120.jpg,Leaf Blight,1045,SM-A037F,A,Overcast,Windy,Vineyard_5
+IMG_1817,leaf blight121.jpg,Leaf Blight,1046,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_1818,leaf blight122.jpg,Leaf Blight,1046,SM-A037F,A,Overcast,Humid,Vineyard_21
+IMG_1819,leaf blight123.jpg,Leaf Blight,1046,SM-A037F,A,Natural sunlight,Humid,Vineyard_26
+IMG_1820,leaf blight124.jpg,Leaf Blight,1046,SM-A037F,A,Overcast,Windy,Vineyard_28
+IMG_1821,leaf blight125.jpg,Leaf Blight,1047,SM-A037F,A,Overcast,Clear,Vineyard_21
+IMG_1822,leaf blight126.jpg,Leaf Blight,1047,SM-A037F,A,Overcast,Clear,Vineyard_15
+IMG_1823,leaf blight127.jpg,Leaf Blight,1048,SM-A037F,A,Partly cloudy,Humid,Vineyard_28
+IMG_1824,leaf blight128.jpg,Leaf Blight,1048,SM-A037F,A,Overcast,Windy,Vineyard_18
+IMG_1825,leaf blight129.jpg,Leaf Blight,1049,SM-A037F,A,Partly cloudy,Humid,Vineyard_4
+IMG_1826,leaf blight130.jpg,Leaf Blight,1049,SM-A037F,A,Natural sunlight,Humid,Vineyard_5
+IMG_1827,leaf blight131.jpg,Leaf Blight,1050,SM-A037F,A,Natural sunlight,Clear,Vineyard_9
+IMG_1828,leaf blight132.jpg,Leaf Blight,1050,SM-A037F,A,Natural sunlight,Windy,Vineyard_17
+IMG_1829,leaf blight133.jpg,Leaf Blight,1051,SM-A037F,A,Overcast,Windy,Vineyard_14
+IMG_1830,leaf blight134.jpg,Leaf Blight,1051,SM-A037F,A,Natural sunlight,Clear,Vineyard_2
+IMG_1831,leaf blight135.jpg,Leaf Blight,1052,SM-A037F,A,Overcast,Windy,Vineyard_27
+IMG_1832,leaf blight136.jpg,Leaf Blight,1052,SM-A037F,A,Overcast,Windy,Vineyard_1
+IMG_1833,leaf blight137.jpg,Leaf Blight,1053,SM-A037F,A,Partly cloudy,Windy,Vineyard_7
+IMG_1834,leaf blight138.jpg,Leaf Blight,1053,SM-A037F,A,Overcast,Humid,Vineyard_17
+IMG_1835,leaf blight139.jpg,Leaf Blight,1054,SM-A037F,A,Overcast,Clear,Vineyard_11
+IMG_1836,leaf blight140.jpg,Leaf Blight,1054,SM-A037F,A,Natural sunlight,Windy,Vineyard_18
+IMG_1837,leaf blight141.jpg,Leaf Blight,1055,SM-A037F,A,Natural sunlight,Clear,Vineyard_17
+IMG_1838,leaf blight142.jpg,Leaf Blight,1055,SM-A037F,A,Overcast,Windy,Vineyard_12
+IMG_1839,leaf blight143.jpg,Leaf Blight,1056,SM-A037F,A,Natural sunlight,Windy,Vineyard_21
+IMG_1840,leaf blight144.jpg,Leaf Blight,1056,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_1841,leaf blight145.jpg,Leaf Blight,1057,SM-A037F,A,Partly cloudy,Windy,Vineyard_4
+IMG_1842,leaf blight146.jpg,Leaf Blight,1057,SM-A037F,A,Overcast,Humid,Vineyard_5
+IMG_1843,leaf blight147.jpg,Leaf Blight,1058,SM-A037F,A,Natural sunlight,Humid,Vineyard_8
+IMG_1844,leaf blight148.jpg,Leaf Blight,1058,SM-A037F,A,Partly cloudy,Humid,Vineyard_22
+IMG_1845,leaf blight149.jpg,Leaf Blight,1059,SM-A037F,A,Natural sunlight,Clear,Vineyard_6
+IMG_1846,leaf blight150.jpg,Leaf Blight,1059,SM-A037F,A,Partly cloudy,Clear,Vineyard_22
+IMG_1847,leaf blight151.jpg,Leaf Blight,1060,SM-A037F,A,Overcast,Clear,Vineyard_26
+IMG_1848,leaf blight152.jpg,Leaf Blight,1060,SM-A037F,A,Overcast,Windy,Vineyard_6
+IMG_1849,leaf blight153.jpg,Leaf Blight,1061,SM-A037F,A,Overcast,Windy,Vineyard_12
+IMG_1850,leaf blight154.jpg,Leaf Blight,1061,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_1851,leaf blight155.jpg,Leaf Blight,1062,SM-A037F,A,Overcast,Clear,Vineyard_28
+IMG_1852,leaf blight156.jpg,Leaf Blight,1062,SM-A037F,A,Natural sunlight,Humid,Vineyard_3
+IMG_1853,leaf blight157.jpg,Leaf Blight,1063,SM-A037F,A,Overcast,Humid,Vineyard_10
+IMG_1854,leaf blight158.jpg,Leaf Blight,1063,SM-A037F,A,Overcast,Humid,Vineyard_20
+IMG_1855,leaf blight159.jpg,Leaf Blight,1064,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_1856,leaf blight160.jpg,Leaf Blight,1064,SM-A037F,A,Natural sunlight,Windy,Vineyard_11
+IMG_1857,leaf blight161.jpg,Leaf Blight,1065,SM-A037F,A,Overcast,Windy,Vineyard_25
+IMG_1858,leaf blight162.jpg,Leaf Blight,1065,SM-A037F,A,Natural sunlight,Humid,Vineyard_6
+IMG_1859,leaf blight163.jpg,Leaf Blight,1066,SM-A037F,A,Natural sunlight,Clear,Vineyard_24
+IMG_1860,leaf blight164.jpg,Leaf Blight,1066,SM-A037F,A,Partly cloudy,Humid,Vineyard_22
+IMG_1861,leaf blight165.jpg,Leaf Blight,1067,SM-A037F,A,Partly cloudy,Humid,Vineyard_6
+IMG_1862,leaf blight166.jpg,Leaf Blight,1067,SM-A037F,A,Partly cloudy,Humid,Vineyard_16
+IMG_1863,leaf blight167.jpg,Leaf Blight,1068,SM-A037F,A,Natural sunlight,Humid,Vineyard_6
+IMG_1864,leaf blight168.jpg,Leaf Blight,1068,SM-A037F,A,Natural sunlight,Clear,Vineyard_18
+IMG_1865,leaf blight169.jpg,Leaf Blight,1069,SM-A037F,A,Overcast,Windy,Vineyard_26
+IMG_1866,leaf blight170.jpg,Leaf Blight,1069,SM-A037F,A,Overcast,Humid,Vineyard_17
+IMG_1867,leaf blight171.jpg,Leaf Blight,1070,SM-A037F,A,Partly cloudy,Humid,Vineyard_11
+IMG_1868,leaf blight172.jpg,Leaf Blight,1070,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_1869,leaf blight173.jpg,Leaf Blight,1071,SM-A037F,A,Partly cloudy,Humid,Vineyard_4
+IMG_1870,leaf blight174.jpg,Leaf Blight,1071,SM-A037F,A,Partly cloudy,Windy,Vineyard_1
+IMG_1871,leaf blight175.jpg,Leaf Blight,1072,SM-A037F,A,Partly cloudy,Humid,Vineyard_5
+IMG_1872,leaf blight176.jpg,Leaf Blight,1072,SM-A037F,A,Overcast,Windy,Vineyard_1
+IMG_1873,leaf blight177.jpg,Leaf Blight,1073,SM-A037F,A,Partly cloudy,Clear,Vineyard_21
+IMG_1874,leaf blight178.jpg,Leaf Blight,1073,SM-A037F,A,Overcast,Clear,Vineyard_16
+IMG_1875,leaf blight179.jpg,Leaf Blight,1074,SM-A037F,A,Overcast,Windy,Vineyard_16
+IMG_1876,leaf blight180.jpg,Leaf Blight,1074,SM-A037F,A,Partly cloudy,Clear,Vineyard_12
+IMG_1877,leaf blight181.jpg,Leaf Blight,1075,SM-A037F,A,Overcast,Windy,Vineyard_4
+IMG_1878,leaf blight182.jpg,Leaf Blight,1075,SM-A037F,A,Partly cloudy,Clear,Vineyard_5
+IMG_1879,leaf blight183.jpg,Leaf Blight,1076,SM-A037F,A,Natural sunlight,Windy,Vineyard_25
+IMG_1880,leaf blight184.jpg,Leaf Blight,1076,SM-A037F,A,Natural sunlight,Windy,Vineyard_18
+IMG_1881,leaf blight185.jpg,Leaf Blight,1077,SM-A037F,A,Natural sunlight,Windy,Vineyard_1
+IMG_1882,leaf blight186.jpg,Leaf Blight,1077,SM-A037F,A,Natural sunlight,Clear,Vineyard_7
+IMG_1883,leaf blight187.jpg,Leaf Blight,1078,SM-A037F,A,Overcast,Humid,Vineyard_21
+IMG_1884,leaf blight188.jpg,Leaf Blight,1078,SM-A037F,A,Overcast,Clear,Vineyard_13
+IMG_1885,leaf blight189.jpg,Leaf Blight,1079,SM-A037F,A,Overcast,Clear,Vineyard_24
+IMG_1886,leaf blight190.jpg,Leaf Blight,1079,SM-A037F,A,Overcast,Humid,Vineyard_27
+IMG_1887,leaf blight191.jpg,Leaf Blight,1080,SM-A037F,A,Overcast,Humid,Vineyard_13
+IMG_1888,leaf blight192.jpg,Leaf Blight,1080,SM-A037F,A,Natural sunlight,Humid,Vineyard_9
+IMG_1889,leaf blight193.jpg,Leaf Blight,1081,SM-A037F,A,Partly cloudy,Clear,Vineyard_15
+IMG_1890,leaf blight194.jpg,Leaf Blight,1081,SM-A037F,A,Partly cloudy,Clear,Vineyard_23
+IMG_1891,leaf blight195.jpg,Leaf Blight,1082,SM-A037F,A,Partly cloudy,Humid,Vineyard_23
+IMG_1892,leaf blight196.jpg,Leaf Blight,1082,SM-A037F,A,Overcast,Clear,Vineyard_3
+IMG_1893,leaf blight197.jpg,Leaf Blight,1083,SM-A037F,A,Natural sunlight,Humid,Vineyard_7
+IMG_1894,leaf blight198.jpg,Leaf Blight,1083,SM-A037F,A,Overcast,Humid,Vineyard_15
+IMG_1895,leaf blight199.jpg,Leaf Blight,1084,SM-A037F,A,Overcast,Windy,Vineyard_24
+IMG_1896,leaf blight200.jpg,Leaf Blight,1084,SM-A037F,A,Partly cloudy,Humid,Vineyard_19
+IMG_1897,leaf blight201.jpg,Leaf Blight,1085,SM-A037F,A,Overcast,Windy,Vineyard_5
+IMG_1898,leaf blight202.jpg,Leaf Blight,1085,SM-A037F,A,Natural sunlight,Humid,Vineyard_12
+IMG_1899,leaf blight203.jpg,Leaf Blight,1086,SM-A037F,A,Natural sunlight,Clear,Vineyard_15
+IMG_1900,leaf blight204.jpg,Leaf Blight,1086,SM-A037F,A,Overcast,Clear,Vineyard_8
+IMG_1901,leaf blight205.jpg,Leaf Blight,1087,SM-A037F,A,Natural sunlight,Clear,Vineyard_24
+IMG_1902,leaf blight206.jpg,Leaf Blight,1087,SM-A037F,A,Partly cloudy,Clear,Vineyard_2
+IMG_1903,leaf blight207.jpg,Leaf Blight,1088,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_1904,leaf blight208.jpg,Leaf Blight,1088,SM-A037F,A,Overcast,Windy,Vineyard_12
+IMG_1905,leaf blight209.jpg,Leaf Blight,1089,SM-A037F,A,Natural sunlight,Windy,Vineyard_10
+IMG_1906,leaf blight210.jpg,Leaf Blight,1089,SM-A037F,A,Partly cloudy,Clear,Vineyard_20
+IMG_1907,leaf blight211.jpg,Leaf Blight,1090,SM-A037F,A,Overcast,Clear,Vineyard_16
+IMG_1908,leaf blight212.jpg,Leaf Blight,1090,SM-A037F,A,Natural sunlight,Clear,Vineyard_4
+IMG_1909,leaf blight213.jpg,Leaf Blight,1091,SM-A037F,A,Natural sunlight,Clear,Vineyard_21
+IMG_1910,leaf blight214.jpg,Leaf Blight,1091,SM-A037F,A,Partly cloudy,Windy,Vineyard_18
+IMG_1911,leaf blight215.jpg,Leaf Blight,1092,SM-A037F,A,Natural sunlight,Clear,Vineyard_20
+IMG_1912,leaf blight216.jpg,Leaf Blight,1092,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_1913,leaf blight217.jpg,Leaf Blight,1093,SM-A037F,A,Overcast,Clear,Vineyard_4
+IMG_1914,leaf blight218.jpg,Leaf Blight,1093,SM-A037F,A,Partly cloudy,Windy,Vineyard_7
+IMG_1915,leaf blight219.jpg,Leaf Blight,1094,SM-A037F,A,Natural sunlight,Humid,Vineyard_5
+IMG_1916,leaf blight220.jpg,Leaf Blight,1094,SM-A037F,A,Overcast,Windy,Vineyard_14
+IMG_1917,leaf blight221.jpg,Leaf Blight,1095,SM-A037F,A,Natural sunlight,Humid,Vineyard_26
+IMG_1918,leaf blight222.jpg,Leaf Blight,1095,SM-A037F,A,Natural sunlight,Windy,Vineyard_25
+IMG_1919,leaf blight223.jpg,Leaf Blight,1096,SM-A037F,A,Overcast,Humid,Vineyard_24
+IMG_1920,leaf blight224.jpg,Leaf Blight,1096,SM-A037F,A,Overcast,Clear,Vineyard_25
+IMG_1921,leaf blight225.jpg,Leaf Blight,1097,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_1922,leaf blight226.jpg,Leaf Blight,1097,SM-A037F,A,Partly cloudy,Humid,Vineyard_11
+IMG_1923,leaf blight227.jpg,Leaf Blight,1098,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_1924,leaf blight228.jpg,Leaf Blight,1098,SM-A037F,A,Natural sunlight,Windy,Vineyard_16
+IMG_1925,leaf blight229.jpg,Leaf Blight,1099,SM-A037F,A,Natural sunlight,Humid,Vineyard_4
+IMG_1926,leaf blight230.jpg,Leaf Blight,1099,SM-A037F,A,Natural sunlight,Windy,Vineyard_2
+IMG_1927,leaf blight231.jpg,Leaf Blight,1100,SM-A037F,A,Partly cloudy,Clear,Vineyard_15
+IMG_1928,leaf blight232.jpg,Leaf Blight,1100,SM-A037F,A,Overcast,Clear,Vineyard_4
+IMG_1929,leaf blight233.jpg,Leaf Blight,1101,SM-A037F,A,Natural sunlight,Humid,Vineyard_20
+IMG_1930,leaf blight234.jpg,Leaf Blight,1101,SM-A037F,A,Overcast,Humid,Vineyard_14
+IMG_1931,leaf blight235.jpg,Leaf Blight,1102,SM-A037F,A,Overcast,Humid,Vineyard_7
+IMG_1932,leaf blight236.jpg,Leaf Blight,1102,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_1933,leaf blight237.jpg,Leaf Blight,1103,SM-A037F,A,Natural sunlight,Windy,Vineyard_28
+IMG_1934,leaf blight238.jpg,Leaf Blight,1103,SM-A037F,A,Partly cloudy,Clear,Vineyard_9
+IMG_1935,leaf blight239.jpg,Leaf Blight,1104,SM-A037F,A,Natural sunlight,Clear,Vineyard_3
+IMG_1936,leaf blight240.jpg,Leaf Blight,1104,SM-A037F,A,Natural sunlight,Clear,Vineyard_1
+IMG_1937,leaf blight241.jpg,Leaf Blight,1105,SM-A037F,A,Natural sunlight,Windy,Vineyard_1
+IMG_1938,leaf blight242.jpg,Leaf Blight,1105,SM-A037F,A,Natural sunlight,Clear,Vineyard_13
+IMG_1939,leaf blight243.jpg,Leaf Blight,1106,SM-A037F,A,Natural sunlight,Clear,Vineyard_28
+IMG_1940,leaf blight244.jpg,Leaf Blight,1106,SM-A037F,A,Natural sunlight,Humid,Vineyard_24
+IMG_1941,leaf blight245.jpg,Leaf Blight,1107,SM-A037F,A,Partly cloudy,Clear,Vineyard_21
+IMG_1942,leaf blight246.jpg,Leaf Blight,1107,SM-A037F,A,Natural sunlight,Humid,Vineyard_1
+IMG_1943,leaf blight247.jpg,Leaf Blight,1108,SM-A037F,A,Partly cloudy,Windy,Vineyard_8
+IMG_1944,leaf blight248.jpg,Leaf Blight,1108,SM-A037F,A,Natural sunlight,Humid,Vineyard_20
+IMG_1945,leaf blight249.jpg,Leaf Blight,1109,SM-A037F,A,Overcast,Humid,Vineyard_22
+IMG_1946,leaf blight250.jpg,Leaf Blight,1109,SM-A037F,A,Partly cloudy,Clear,Vineyard_4
+IMG_1947,leaf blight251.jpg,Leaf Blight,1110,SM-A037F,A,Natural sunlight,Humid,Vineyard_19
+IMG_1948,leaf blight252.jpg,Leaf Blight,1110,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_1949,leaf blight253.jpg,Leaf Blight,1111,SM-A037F,A,Natural sunlight,Clear,Vineyard_19
+IMG_1950,leaf blight254.jpg,Leaf Blight,1111,SM-A037F,A,Natural sunlight,Clear,Vineyard_20
+IMG_1951,leaf blight255.jpg,Leaf Blight,1112,SM-A037F,A,Overcast,Clear,Vineyard_2
+IMG_1952,leaf blight256.jpg,Leaf Blight,1112,SM-A037F,A,Natural sunlight,Windy,Vineyard_16
+IMG_1953,leaf blight257.jpg,Leaf Blight,1113,SM-A037F,A,Natural sunlight,Clear,Vineyard_11
+IMG_1954,leaf blight258.jpg,Leaf Blight,1113,SM-A037F,A,Partly cloudy,Clear,Vineyard_12
+IMG_1955,leaf blight259.jpg,Leaf Blight,1114,SM-A037F,A,Natural sunlight,Humid,Vineyard_25
+IMG_1956,leaf blight260.jpg,Leaf Blight,1114,SM-A037F,A,Partly cloudy,Windy,Vineyard_23
+IMG_1957,leaf blight261.jpg,Leaf Blight,1115,SM-A037F,A,Natural sunlight,Humid,Vineyard_3
+IMG_1958,leaf blight262.jpg,Leaf Blight,1115,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_1959,leaf blight263.jpg,Leaf Blight,1116,SM-A037F,A,Natural sunlight,Clear,Vineyard_5
+IMG_1960,leaf blight264.jpg,Leaf Blight,1116,SM-A037F,A,Overcast,Clear,Vineyard_9
+IMG_1961,leaf blight265.jpg,Leaf Blight,1117,SM-A037F,A,Partly cloudy,Clear,Vineyard_12
+IMG_1962,leaf blight266.jpg,Leaf Blight,1117,SM-A037F,A,Partly cloudy,Clear,Vineyard_22
+IMG_1963,leaf blight267.jpg,Leaf Blight,1118,SM-A037F,A,Partly cloudy,Windy,Vineyard_16
+IMG_1964,leaf blight268.jpg,Leaf Blight,1118,SM-A037F,A,Natural sunlight,Humid,Vineyard_10
+IMG_1965,leaf blight269.jpg,Leaf Blight,1119,SM-A037F,A,Natural sunlight,Windy,Vineyard_4
+IMG_1966,leaf blight270.jpg,Leaf Blight,1119,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_1967,leaf blight271.jpg,Leaf Blight,1120,SM-A037F,A,Overcast,Windy,Vineyard_22
+IMG_1968,leaf blight272.jpg,Leaf Blight,1120,SM-A037F,A,Natural sunlight,Clear,Vineyard_28
+IMG_1969,leaf blight273.jpg,Leaf Blight,1121,SM-A037F,A,Natural sunlight,Clear,Vineyard_8
+IMG_1970,leaf blight274.jpg,Leaf Blight,1121,SM-A037F,A,Partly cloudy,Humid,Vineyard_16
+IMG_1971,leaf blight275.jpg,Leaf Blight,1122,SM-A037F,A,Partly cloudy,Windy,Vineyard_24
+IMG_1972,leaf blight276.jpg,Leaf Blight,1122,SM-A037F,A,Natural sunlight,Humid,Vineyard_20
+IMG_1973,leaf blight277.jpg,Leaf Blight,1123,SM-A037F,A,Natural sunlight,Humid,Vineyard_2
+IMG_1974,leaf blight278.jpg,Leaf Blight,1123,SM-A037F,A,Overcast,Windy,Vineyard_20
+IMG_1975,leaf blight279.jpg,Leaf Blight,1124,SM-A037F,A,Natural sunlight,Humid,Vineyard_3
+IMG_1976,leaf blight280.jpg,Leaf Blight,1124,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_1977,leaf blight281.jpg,Leaf Blight,1125,SM-A037F,A,Natural sunlight,Humid,Vineyard_9
+IMG_1978,leaf blight282.jpg,Leaf Blight,1125,SM-A037F,A,Natural sunlight,Humid,Vineyard_20
+IMG_1979,leaf blight283.jpg,Leaf Blight,1126,SM-A037F,A,Partly cloudy,Humid,Vineyard_17
+IMG_1980,leaf blight284.jpg,Leaf Blight,1126,SM-A037F,A,Partly cloudy,Humid,Vineyard_12
+IMG_1981,leaf blight285.jpg,Leaf Blight,1127,SM-A037F,A,Overcast,Windy,Vineyard_11
+IMG_1982,leaf blight286.jpg,Leaf Blight,1127,SM-A037F,A,Natural sunlight,Humid,Vineyard_9
+IMG_1983,leaf blight287.jpg,Leaf Blight,1128,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_1984,leaf blight288.jpg,Leaf Blight,1128,SM-A037F,A,Overcast,Humid,Vineyard_1
+IMG_1985,leaf blight289.jpg,Leaf Blight,1129,SM-A037F,A,Natural sunlight,Clear,Vineyard_1
+IMG_1986,leaf blight290.jpg,Leaf Blight,1129,SM-A037F,A,Natural sunlight,Clear,Vineyard_26
+IMG_1987,leaf blight291.jpg,Leaf Blight,1130,SM-A037F,A,Overcast,Humid,Vineyard_6
+IMG_1988,leaf blight292.jpg,Leaf Blight,1130,SM-A037F,A,Partly cloudy,Windy,Vineyard_25
+IMG_1989,leaf blight293.jpg,Leaf Blight,1131,SM-A037F,A,Partly cloudy,Clear,Vineyard_18
+IMG_1990,leaf blight294.jpg,Leaf Blight,1131,SM-A037F,A,Natural sunlight,Windy,Vineyard_4
+IMG_1991,leaf blight295.jpg,Leaf Blight,1132,SM-A037F,A,Overcast,Humid,Vineyard_9
+IMG_1992,leaf blight296.jpg,Leaf Blight,1132,SM-A037F,A,Partly cloudy,Humid,Vineyard_4
+IMG_1993,leaf blight297.jpg,Leaf Blight,1133,SM-A037F,A,Natural sunlight,Humid,Vineyard_6
+IMG_1994,leaf blight298.jpg,Leaf Blight,1133,SM-A037F,A,Overcast,Humid,Vineyard_19
+IMG_1995,leaf blight299.jpg,Leaf Blight,1134,SM-A037F,A,Overcast,Clear,Vineyard_2
+IMG_1996,leaf blight300.jpg,Leaf Blight,1134,SM-A037F,A,Overcast,Windy,Vineyard_6
+IMG_1997,leaf blight301.jpg,Leaf Blight,1135,SM-A037F,A,Partly cloudy,Windy,Vineyard_28
+IMG_1998,leaf blight302.jpg,Leaf Blight,1135,SM-A037F,A,Partly cloudy,Windy,Vineyard_22
+IMG_1999,leaf blight303.jpg,Leaf Blight,1136,SM-A037F,A,Natural sunlight,Windy,Vineyard_22
+IMG_2000,leaf blight304.jpg,Leaf Blight,1136,SM-A037F,A,Partly cloudy,Humid,Vineyard_11
+IMG_2001,leaf blight305.jpg,Leaf Blight,1137,SM-A037F,A,Partly cloudy,Clear,Vineyard_25
+IMG_2002,leaf blight306.jpg,Leaf Blight,1137,SM-A037F,A,Natural sunlight,Humid,Vineyard_18
+IMG_2003,leaf blight307.jpg,Leaf Blight,1138,SM-A037F,A,Natural sunlight,Windy,Vineyard_26
+IMG_2004,leaf blight308.jpg,Leaf Blight,1138,SM-A037F,A,Natural sunlight,Windy,Vineyard_11

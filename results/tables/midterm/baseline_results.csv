@@ -1,0 +1,5 @@
+model,test_acc,test_macro_f1,best_val_macro_f1,params_M,GMACs,latency_ms_bs1,train_time_s,epochs_run,best_epoch,peak_vram_gb
+simple_cnn,0.8563,0.8406,0.8335,0.3941,0.2529,0.7277,39.5,32,24,0.3851
+resnet18,0.8439,0.8216,0.8236,11.1786,1.8136,3.0744,22.4,9,3,0.6049
+mobilenet_v3_small,0.8234,0.8107,0.83,1.522,0.0555,5.2524,24.7,8,2,0.4266
+convnext_tiny,0.8624,0.838,0.849,27.8232,4.4548,5.9209,73.2,6,1,2.5188
